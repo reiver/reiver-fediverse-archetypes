@@ -93,3 +93,12 @@ Sometimes in a group (of friends) basis.
 ---
 
 ## Decentralist Douglas
+
+A **Decentralist Douglas** is someone cares about _"decentralization"_.
+Either as a means to and end, or and an end in and of itself.
+
+### Wants
+
+### Problems
+
+---
