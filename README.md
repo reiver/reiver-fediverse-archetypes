@@ -48,6 +48,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
+* [Decentralist Douglas](#decentralist-douglas)
 
 ---
 
@@ -91,4 +92,4 @@ Sometimes in a group (of friends) basis.
 
 ---
 
-## 
+## Decentralist Douglas
