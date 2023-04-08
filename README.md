@@ -116,4 +116,10 @@ Either as a means to and end, or and an end in and of itself.
 
 ## Mob Fearing Fred
 
-A **Mob Fearing Fred** tends not to post often because they fear being **mobbed**.
+A **Mob Fearing Fred** tends not to post content often because they fear being **mobbed** — i.e., being **bullied** by a group of people.
+
+Some **Mob Fearing Freds** may call being the target of this type of bullying — being "**canceled**".
+
+### Wants
+
+### Problems
