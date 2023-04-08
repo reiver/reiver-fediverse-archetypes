@@ -4,7 +4,13 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 ---
 
-This document is a distillation of the **industrial-research** we did on the Fediverse.
+This document is a distillation of the **industrial-research** we did on the **Fediverse**.
+
+This analysis is meant to be **descriptive**.
+I.e., it is trying to list out what is there.
+It is _not_ a statement of what should or shouldn't be there.
+And neither is it an endorsement or a condemnation of anything that is there.
+It is **description** of what seems to be observed.
 
 ## Archetypes
 
@@ -106,3 +112,5 @@ Either as a means to and end, or and an end in and of itself.
 * 
 
 ---
+
+## Mob Fearing Fred
