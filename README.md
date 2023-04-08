@@ -56,6 +56,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Anxious Anna](#anxious-anna)
 * [Decentralist Douglas](#decentralist-douglas)
 * [Mob Fearing Fred](#mob-fearing-fred)
+* [Show-Off Shaila](#show-off-shaila)
 
 ---
 
@@ -119,6 +120,14 @@ Either as a means to and end, or and an end in and of itself.
 A **Mob Fearing Fred** tends not to post content often because they fear being **mobbed** — i.e., being **bullied** by a group of people.
 
 Some **Mob Fearing Freds** may call being the target of this type of bullying — being "**canceled**".
+
+### Wants
+
+### Problems
+
+---
+
+## Show-Off Shaila
 
 ### Wants
 
