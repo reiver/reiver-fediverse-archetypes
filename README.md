@@ -12,6 +12,8 @@ It is _not_ a statement of what should or shouldn't be there.
 And neither is it an endorsement or a condemnation of anything that is there.
 It is **description** of what seems to be observed.
 
+This document tries to use _"neutral"_ language in its descriptions.
+
 ## Archetypes
 
 > archetypes (noun): an idealized model of a number of similar things.
