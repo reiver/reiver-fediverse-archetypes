@@ -94,11 +94,15 @@ Sometimes in a group (of friends) basis.
 
 ## Decentralist Douglas
 
-A **Decentralist Douglas** is someone cares about _"decentralization"_.
+A **Decentralist Douglas** is someone cares about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
 Either as a means to and end, or and an end in and of itself.
 
 ### Wants
 
+* wants decentralized social-media networks
+
 ### Problems
+
+* 
 
 ---
