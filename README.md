@@ -82,6 +82,9 @@ Sometimes in a group (of friends) basis.
 
 ### Wants:
 
+* wants obscurity and to be inconspicuous
+* wants social-interaction with their close friends
+
 ### Problems:
 
 * Worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
