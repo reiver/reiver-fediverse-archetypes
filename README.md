@@ -270,9 +270,18 @@ A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migra
 
 ## Idolizer
 
-An **Idolizer** is someone who, sometimes obsessively, pay attention to, if fond of, adores, and even worships someone.
+An **Idolizer** is someone who, sometimes obsessively, pays attention to, if fond of, adores, and even worships someone.
+
+(The target of this **idolizing** is (by definition) called an **idol**.)
+
+Some **Idolizers** will join a social-media platform because one or more of their **idols** are on it.
+I.e., join to have a parasocial relationship with their **idol**.
 
 ### Wants
+
+* wants to consume content (supposedly) from their idol
+* wants to consume content about their idol
+* might want to talk about their idol with others
 
 ### Problems
 
