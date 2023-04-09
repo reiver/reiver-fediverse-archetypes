@@ -124,7 +124,7 @@ Sometimes in a group (of friends) basis.
 
 A **Contra Musk** is reactionary who aligns with U.S. left-wing politics who left Twitter and joined the the Fediverse (usually on a Mastodon community server) because of their dislike of Elon Musk.
 
-Elon Musk was once acclaimed by many aligned with U.S. left-wing politics as a _champion_ due to his investing and entrepreneurial activities with electric cars and solar energy technology, and thought of by some as a real-life version of (the fictional Marvel character) Tony Stark (who some may better know as _Iron Man_). This left-wing admiration of Elon Musk eventually transformed into a dislike.
+Elon Musk was once acclaimed by many aligned with U.S. left-wing politics as a _champion_ due to his investment and entrepreneurial activities with electric cars and solar energy technology, and thought of by some as a real-life version of (the fictional Marvel character) Tony Stark (who some may better know as _Iron Man_). This left-wing admiration of Elon Musk eventually transformed into a dislike.
 
 This left-wing dislike of Elon Musk stems from Musk being critical the U.S. Democratic Party and some instances of U.S. left-wing politics, as well as expressing that he would vote for Republican Party candidates due to his dissatisfaction with incumbent U.S. Democratic Party members.
 
