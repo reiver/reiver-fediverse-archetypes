@@ -70,6 +70,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Mastonaut](#mastonaut)
 * [Mob Fearing Fred](#mob-fearing-fred)
 * [Privacy Fanatic](#privacy-fanatic)
+* [Self-Hoster](#self-hoster)
 * [Show-Off](#show-off)
 * [Topic Backer](#topic-backer)
 
@@ -265,7 +266,7 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 ---
 
-## Show-Off
+## Privacy Fanatic
 
 ### Wants
 
@@ -273,7 +274,15 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 ---
 
-## Privacy Fanatic
+## Self-Hoster
+
+### Wants
+
+### Problems
+
+---
+
+## Show-Off
 
 ### Wants
 
