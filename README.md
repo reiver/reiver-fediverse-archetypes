@@ -48,7 +48,7 @@ For example — a single individual could be — a _father_, a _husband_, a _bro
 The **archetypes** an individual expresses could also change over their life-time too.
 For example — before someone has a child, they wouldn't be a _father_ or a _mother_ yet; but after they have a child, they would become a _father_, or a _mother_.
 
-This document includes **archetypes** relevant to the Fediverse.
+This document includes **archetypes** relevant to the Fediverse that the author(s) have deemed "important" for a particular purpose.
 
 ## Table of Content
 
