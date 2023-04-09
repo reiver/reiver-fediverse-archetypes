@@ -323,7 +323,7 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 ## Topic Backer
 
-A **Topic Backer** is someone who likes consuming content on certain topics, and is willing to financially support (at least some) creators who create content they like consuming. Their motivation for providing this financial support is they hope the creator will create more art/content that they like for them to consume.
+A **Topic Backer** is someone who likes consuming content on certain topics, and is willing to financially support (at least some) creators who create content they like consuming. Their motivation for providing this financial support is they hope the creator will create more content that they like for them to consume.
 
 ### Wants
 
