@@ -66,6 +66,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Entrepreneurial CTO](#entrepreneurial-cto)
 * [Fediverse Advocate](#fediverse-advocate)
 * [Flocker](#flocker)
+* [Idolizer](#idolizer)
 * [Influencer](#influencer)
 * [Life-Caster](#life-caster)
 * [Mastonaut](#mastonaut)
@@ -262,6 +263,14 @@ A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migra
 ### Wants
 
 * want to be where everyone else is
+
+### Problems
+
+---
+
+## Idolizer
+
+### Wants
 
 ### Problems
 
