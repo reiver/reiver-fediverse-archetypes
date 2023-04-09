@@ -57,7 +57,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
 * [Backer Bob](#backer-bob)
-* [Decentralist Douglas](#decentralist-douglas)
+* [Decentralist](#decentralist)
 * [Influencer Iman](#influencer-iman)
 * [Life-Caster](#life-caster)
 * [Mob Fearing Fred](#mob-fearing-fred)
@@ -113,9 +113,9 @@ Sometimes in a group (of friends) basis.
 
 ---
 
-## Decentralist Douglas
+## Decentralist
 
-A **Decentralist Douglas** is someone cares about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
+A **Decentralist** is someone cares about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
 Either as a means to and end, or and an end in and of itself.
 
 ### Wants
