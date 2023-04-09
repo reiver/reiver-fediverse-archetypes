@@ -63,6 +63,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Fediverse Advocate](#fediverse-advocate)
   * [Open-Source Advocate](#open-source-advocate)
   * [Privacy Advocate](#privacy-advocate)
+* [Archivist](#archivist)
 * Audience
   * [Idolizer](#idolizer)
   * Lurker
@@ -144,6 +145,14 @@ Sometimes in a group (of friends) basis.
 ### Problems
 
 * worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc
+
+---
+
+## Archivist
+
+### Wants
+
+### Problems
 
 ---
 
