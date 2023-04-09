@@ -209,15 +209,25 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 
 ## Entrepreneurial CEO
 
-An **Entrepreneurial CEO** is take risks to start new **companies**.
+An **Entrepreneurial CEO** is someone willing to take risks and make sacrifices to start new **companies** that they lead and manage.
 
-**Entrepreneurial CEOs** should **not** be conflated with the type of **CEOs** that tend be a **CEO** at large established companies.
-I.e., **Entrepreneurial CEOs** tend to be **CEOs** that create the company they are **CEO** at — they are **not** the type of **CEO** that gets hired into the position.
+Some will work for months or years without getting paid, living off of their savings towards this goal.
+And when they do finally get paid, they might pay themselves way below what they could make by being an employee for someone else's company — either due to a lack of funds, or so they can pay others.
+
+**Entrepreneurial CEOs** should **not** be conflated with the type of person who tends be a **CEO** at large established companies.
+These two types of **CEOs** seem to be different.
+**Entrepreneurial CEOs** tend to be **CEOs** that create the company they are the **CEO** at — they are **not** the type of **CEO** that gets hired into the position.
 
 **Entrepreneurial CEOs** tend to be open-minded and curious.
-Due to this they are often one of the earlier adopters of technology.
-ALthough **Entrepreneurial CEOs** usually adopt or try out new technology after **CTOs**.
+
+Due to their open-mindedness and curiousity **Entrepreneurial CEOs** are often one of the earlier adopters of technology.
+Although **Entrepreneurial CEOs** usually adopt or try out new technology after **CTOs**.
 And **CTOs** usually adopt or try out new technolgy either as part of or after **Computer Programmers**.
+
+**Entrepreneurial CEOs** tend to be interested in one or more topics.
+
+**Entrepreneurial CEOs** want to consume content on the topics they are interested in.
+**Entrepreneurial CEOs** want to have discussions with other on the topics they are interested in — especially others who they believe are knowledgeable about the topics they are interested in.
 
 ### Wants
 
