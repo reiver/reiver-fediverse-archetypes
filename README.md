@@ -56,9 +56,10 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
+* [Contra Musk](#contra-musk)
 * [Decentralist](#decentralist)
 * [Diversified Creator](#diversified-creator)
-* [Influencer](#influencer-iman)
+* [Influencer](#influencer)
 * [Life-Caster](#life-caster)
 * [Mob Fearing Fred](#mob-fearing-fred)
 * [Show-Off](#show-off)
@@ -103,6 +104,16 @@ Sometimes in a group (of friends) basis.
 ### Problems
 
 * Worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
+
+---
+
+## Contra Musk
+
+A **Contra Musk** is reactionary who left Twitter and joined the the Fediverse (usually on a Mastodon community server) because of their dislike of Elon Musk. This dislike of Elon Musk stems from Musk being critical the U.S. Democratic Party and some instances of U.S. left-wing politics.
+
+### Wants
+
+### Problems
 
 ---
 
