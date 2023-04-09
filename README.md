@@ -85,7 +85,7 @@ An **Ambitious Admin** may not feel comfortable sharing their _ambition_ with th
 
 ### Wants
 
-* wants to make money
+* wants to make money — to pay for the costs of the server, to pay their bills, to pay for a better life, or even to operate an enterprise
 
 ### Problems
 
