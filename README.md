@@ -69,7 +69,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 ## Ambitious Admin
 
-An **Ambitious Admin** is an administrator of one or more Fediverse community servers who is looking to turn their Fediverse community server(s) into a source of income for themselves, and a money making enterprise.
+An **Ambitious Admin** is an administrator of one or more Fediverse community servers who is looking to turn their Fediverse community server(s) into a source of income for themselves, and maybe even a money making enterprise (beyond their personal needs).
 
 Although there are threads of the Fediverse that is (what in the U.S. would tend to get labeled) far-leftist and is anti-making-money, an **Ambitious Admin** is not.
 An **Ambitious Admin** may not feel comfortable sharing their _ambition_ with these _threads_ on the Fediverse, so far not to be the target of hate and hostility.
