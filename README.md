@@ -21,7 +21,7 @@ It is **description** of what seems to be observed.
 From the point-of-view of **industrial-research** — an **archetype** is a model of some aspect of a person shared among many people.
 
 (UX people tend to call "**archetypes**": "**personas**".
-And marketers tend to call "**archetypes": "**segments**".
+And marketers tend to call "**archetypes**": "**segments**".
 In practice, all 3 of these are very similar concepts.)
 
 Some examples of (non-Fediverse specific) **archetypes** include:
