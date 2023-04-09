@@ -56,6 +56,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
+* [Backer Bob](#backer-bob)
 * [Decentralist Douglas](#decentralist-douglas)
 * [Influencer Iman](#influencer-iman)
 * [Mob Fearing Fred](#mob-fearing-fred)
@@ -100,6 +101,14 @@ Sometimes in a group (of friends) basis.
 ### Problems:
 
 * Worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
+
+---
+
+## Backer Bob
+
+### Wants:
+
+### Problems:
 
 ---
 
