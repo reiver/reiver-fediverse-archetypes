@@ -63,6 +63,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Diversified Creator](#diversified-creator)
 * [Early Adopter](#early-adopter)
 * [Entrepreneurial CEO](#entrepreneurial-ceo)
+* [Entrepreneurial CTO](#entrepreneurial-cto)
 * [Fediverse Advocate](#fediverse-advocate)
 * [Flocker](#flocker)
 * [Influencer](#influencer)
@@ -228,6 +229,14 @@ And **CTOs** usually adopt or try out new technolgy either as part of or after *
 
 **Entrepreneurial CEOs** want to consume content on the topics they are interested in.
 **Entrepreneurial CEOs** want to have discussions with other on the topics they are interested in — especially others who they believe are knowledgeable about the topics they are interested in.
+
+### Wants
+
+### Problems
+
+---
+
+## Entrepreneurial CTO
 
 ### Wants
 
