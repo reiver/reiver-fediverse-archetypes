@@ -169,7 +169,7 @@ This mass migration from Twitter to the Fediverse that started on November 2022 
 
 ## Decentralization Advocate
 
-A **Decentralization Advocate** (sometimes also called a "**Decentralist**") is someone cares about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
+A **Decentralization Advocate** (sometimes also called a "**Decentralist**") is someone on the Fediverse who advocates for and who may even by fanatical about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
 Either as a means to and end, or and an end in and of itself.
 
 ### Wants
@@ -179,7 +179,8 @@ Either as a means to and end, or and an end in and of itself.
 
 ### Problems
 
-* 
+* decentralized versions of types of social-media networks don't exist yet
+* other people are using centralized social-media networks
 
 ---
 
