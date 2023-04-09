@@ -54,13 +54,13 @@ This document includes **archetypes** relevant to the Fediverse.
 
 Here are the list of **archetypes** we found that were relevant to the Fediverse.
 
-* [Accessibility Activist](#accessibility-activist)
+* [Accessibility Fanatic](#accessibility-fanatic)
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
 * [Contra Musk](#contra-musk)
 * [Decentralist](#decentralist)
 * [Diversified Creator](#diversified-creator)
-* [Fediverse Fanatics](#fediverse-fanatics)
+* [Fediverse Fanatic](#fediverse-fanatic)
 * [Influencer](#influencer)
 * [Life-Caster](#life-caster)
 * [Mob Fearing Fred](#mob-fearing-fred)
@@ -69,7 +69,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 ---
 
-## Accessibility Activist
+## Accessibility Fanatic
 
 ### Wants
 
@@ -170,7 +170,7 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 
 ---
 
-## Fediverse Fanatics
+## Fediverse Fanatic
 
 ## Wants
 
