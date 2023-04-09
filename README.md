@@ -54,7 +54,7 @@ This document includes **archetypes** relevant to the Fediverse that the author(
 
 Here are the list of **archetypes** we found that were relevant to the Fediverse.
 
-* [Accessibility Fanatic](#accessibility-fanatic)
+* [Accessibility Advocate](#accessibility-advocate)
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
 * [Computer Programmer](#computer-programmer)
@@ -63,13 +63,13 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Diversified Creator](#diversified-creator)
 * [Early Adopter](#early-adopter)
 * [Entrepreneurial CEO](#entrepreneurial-ceo)
-* [Fediverse Fanatic](#fediverse-fanatic)
+* [Fediverse Advocate](#fediverse-advocate)
 * [Flocker](#flocker)
 * [Influencer](#influencer)
 * [Life-Caster](#life-caster)
 * [Mastonaut](#mastonaut)
 * [Mob Fearing Fred](#mob-fearing-fred)
-* [Privacy Fanatic](#privacy-fanatic)
+* [Privacy Advocate](#privacy-advocate)
 * [Self-Hoster](#self-hoster)
 * [Sense Maker](#sense-maker)
 * [Show-Off](#show-off)
@@ -78,14 +78,16 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 ---
 
-## Accessibility Fanatic
+## Accessibility Advocate
 
-An **Accessibility Fanatic** is someone on the Fediverse who is fanatical about others adding _caption-text_ to images in posts.
+An **Accessibility Advocate** is someone on the Fediverse who advocates for and who may even by fanatical about others adding _caption-text_ to images in posts.
 
 They will often hound others to add _caption-text_ to edit posts to add _caption-text_ to images that do not have _caption-text_.
 They will also often talk about screen-readers.
 
 ### Wants
+
+* wants all images posted on the Fediverse to have _caption-text_
 
 ### Problems
 
@@ -211,7 +213,7 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 
 ---
 
-## Fediverse Fanatic
+## Fediverse Advocate
 
 ### Wants
 
@@ -269,7 +271,7 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 ---
 
-## Privacy Fanatic
+## Privacy Advocate
 
 ### Wants
 
