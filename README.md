@@ -172,6 +172,7 @@ Either as a means to and end, or and an end in and of itself.
 ### Wants
 
 * wants decentralized social-media networks
+* some even want others _not_ to use centralized social-media networks
 
 ### Problems
 
@@ -220,11 +221,11 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 
 ## Flocker
 
-A **Flocker** is someone who join the Fediverse as part of the **Twitter-migration** / **eternal-November** _not_ simply because they saw others joining, and Mastodon and the Fediverse were gaining "momentum".
+A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migration** / **eternal-November** simply because they saw others joining, and Mastodon and the Fediverse were gaining "momentum".
 
 ### Wants
 
-** want to be where everyone else is
+* want to be where everyone else is
 
 ### Problems
 
