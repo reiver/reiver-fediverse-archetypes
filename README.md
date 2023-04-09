@@ -393,13 +393,15 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 ### Problems
 
+* 
+
 ---
 
 ## Show-Off
 
 ### Wants
 
-* wants to be able to find
+* 
 
 ### Problems
 
@@ -411,6 +413,6 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 
 ### Wants
 
-* want new content on topics they are interested in
+* wants new content on topics they are interested in
 
 ### Problems
