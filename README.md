@@ -73,6 +73,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Self-Hoster](#self-hoster)
 * [Sense Maker](#sense-maker)
 * [Show-Off](#show-off)
+* [Staff Recruiter](#staff-recruiter)
 * [Topic Backer](#topic-backer)
 
 ---
@@ -284,6 +285,14 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 ---
 
 ## Sense Maker
+
+### Wants
+
+### Problems
+
+---
+
+## Staff Recruiter
 
 ### Wants
 
