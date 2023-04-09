@@ -57,6 +57,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Accessibility Fanatic](#accessibility-fanatic)
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
+* [Computer Programmer](#computer-programmer)
 * [Contra Musk](#contra-musk)
 * [Decentralist](#decentralist)
 * [Diversified Creator](#diversified-creator)
@@ -120,6 +121,14 @@ Sometimes in a group (of friends) basis.
 ### Problems
 
 * worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc
+
+---
+
+## Computer Programmer
+
+### Wants
+
+### Problems
 
 ---
 
