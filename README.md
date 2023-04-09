@@ -61,6 +61,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Decentralist](#decentralist)
 * [Diversified Creator](#diversified-creator)
 * [Early Adopter](#early-adopter)
+* [Entrepreneurial CEO](#entrepreneurial-ceo)
 * [Fediverse Fanatic](#fediverse-fanatic)
 * [Flocker](#flocker)
 * [Influencer](#influencer)
@@ -176,6 +177,14 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 ---
 
 ## Early Adopter
+
+### Wants
+
+### Problems
+
+---
+
+## Entrepreneurial CEO
 
 ### Wants
 
