@@ -54,13 +54,15 @@ This document includes **archetypes** relevant to the Fediverse that the author(
 
 Here are the list of **archetypes** we found that were relevant to the Fediverse.
 
+* Admin
+  * [Ambitious Admin](#ambitious-admin)
+  * [Self-Hoster](#self-hoster)
 * Advocate
   * [Accessibility Advocate](#accessibility-advocate)
   * [Decentralization Advocate](#decentralization-advocate)
   * [Fediverse Advocate](#fediverse-advocate)
   * [Open-Source Advocate](open-source-advocate)
   * [Privacy Advocate](#privacy-advocate)
-* [Ambitious Admin](#ambitious-admin)
 * [Computer Programmer](#computer-programmer)
 * [Columnist](#columnist)
 * [Contra Musk](#contra-musk)
@@ -76,7 +78,6 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Anxious Anna](#anxious-anna)
   * [Mob Fearing Fred](#mob-fearing-fred)
 * [Mastonaut](#mastonaut)
-* [Self-Hoster](#self-hoster)
 * [Sense Maker](#sense-maker)
 * [Show-Off](#show-off)
 * [Staff Recruiter](#staff-recruiter)
