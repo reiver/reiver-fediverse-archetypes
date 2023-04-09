@@ -89,8 +89,8 @@ An **Ambitious Admin** may not feel comfortable sharing their _ambition_ with th
 An **Anxious Anna** is someone who doesn't like publicly posting content because they are afraid of other judging them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
 
 Some **Anxious Annas** will on rare occasians make public posts.
-(Sometimes due to real or imagined social-pressure they feel to post something.)
-But the posts will tend tbe so void of any context or information that it cannot attract the (negative) judgement of others.
+Sometimes due to real or imagined social-pressure they feel to post something.
+But their posts will tend to be void of any context or information so as to not attract the (negative) judgement of others.
 
 **Anxious Annas** tend to mostly send private messages to their close friends.
 Sometimes on a one-of-one basis.
