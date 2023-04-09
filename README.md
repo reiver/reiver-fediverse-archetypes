@@ -144,9 +144,16 @@ Either as a means to and end, or and an end in and of itself.
 
 ## Diversified Creator
 
+A **Diversified Creator** is someone who is concerned about YouTube, Twitter, Patreon, and others deleting or suspending the accounts of creators on their platforms because it can cause of creator to loose their source of income and loose their connection to their audience.
+
 ### Wants
 
+* multiple sources of income
+
 ### Problems
+
+* might loose their connection to their audience at the whim of a platform they built their audience on
+* source of income can be taken away from them at the whom of the platform they built their audience on
 
 ---
 
