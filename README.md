@@ -76,6 +76,11 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 ## Accessibility Fanatic
 
+An **Accessibility Fanatic** is someone on the Fediverse who is fanatical about others adding _caption-text_ to images in posts.
+
+They will often hound others to add _caption-text_ to edit posts to add _caption-text_ to images that do not have _caption-text_.
+They will also often talk about screen-readers.
+
 ### Wants
 
 ### Problems
