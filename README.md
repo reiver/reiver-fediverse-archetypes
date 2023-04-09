@@ -103,7 +103,7 @@ Sometimes in a group (of friends) basis.
 
 ### Problems
 
-* Worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
+* worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc
 
 ---
 
