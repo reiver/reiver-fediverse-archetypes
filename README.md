@@ -54,6 +54,7 @@ This document includes **archetypes** relevant to the Fediverse.
 
 Here are the list of **archetypes** we found that were relevant to the Fediverse.
 
+* [Accessibility Activist](#accessibility-activist)
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
 * [Contra Musk](#contra-musk)
@@ -64,6 +65,14 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Mob Fearing Fred](#mob-fearing-fred)
 * [Show-Off](#show-off)
 * [Topic Backer](#topic-backer)
+
+---
+
+## Accessibility Activist
+
+### Wants
+
+### Problems
 
 ---
 
