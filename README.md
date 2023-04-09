@@ -58,6 +58,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
 * [Computer Programmer](#computer-programmer)
+* [Columnist](#columnist)
 * [Contra Musk](#contra-musk)
 * [Decentralization Advocate](#decentralization-advocate)
 * [Diversified Creator](#diversified-creator)
@@ -71,7 +72,6 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Life-Caster](#life-caster)
 * [Mastonaut](#mastonaut)
 * [Mob Fearing Fred](#mob-fearing-fred)
-* [Newspaper Journalist](#newspaper-journalist)
 * [Open-Source Advocate](open-source-advocate)
 * [Privacy Advocate](#privacy-advocate)
 * [Self-Hoster](#self-hoster)
@@ -138,6 +138,21 @@ Sometimes in a group (of friends) basis.
 ### Problems
 
 * worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc
+
+---
+
+## Columnist
+
+A **Columnist** (also sometimes called a **jounalist** or a **reporter**) is someone who writes regularly for a newspaper or magazine.
+
+### Wants
+
+* wants to follow others who create content that they can covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied)
+
+## Problems
+
+* they are under a lot of pressure to create articles for newspapers or magazines quickly, which doesn't give them any time to understand or investigate the topic they are writing about
+* articles they write usually have serious errors and factual inaccuracies
 
 ---
 
@@ -329,19 +344,6 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 ### Problems
 
 * fear of being bullied by a group of people
-
----
-
-## Newspaper Journalist
-
-### Wants
-
-* wants to follow others who create content that they can covertly turn into an article to post in a newspaper
-
-## Problems
-
-* under a lot of pressure to create articles for newspapers quickly, which doesn't give them any time to understand or investigate the topic they are writing about
-* articles they write usually have serious errors and factual inaccuracies
 
 ---
 
