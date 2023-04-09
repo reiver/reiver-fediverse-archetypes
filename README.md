@@ -69,6 +69,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Life-Caster](#life-caster)
 * [Mastonaut](#mastonaut)
 * [Mob Fearing Fred](#mob-fearing-fred)
+* [Open-Source Advocate](open-source-advocate)
 * [Privacy Advocate](#privacy-advocate)
 * [Self-Hoster](#self-hoster)
 * [Sense Maker](#sense-maker)
@@ -268,6 +269,14 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 ### Problems
 
 * fear of being bullied by a group of people
+
+---
+
+## Open-Source Advocate
+
+### Wants
+
+### Problems
 
 ---
 
