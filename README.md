@@ -72,11 +72,11 @@ An **Ambitious Admin** is an administrator of one or more Fediverse community se
 Although there are threads of the Fediverse that is (what in the U.S. would tend to get labeled) far-leftist and is anti-making-money, an **Ambitious Admin** is not.
 An **Ambitious Admin** may not feel comfortable sharing their _ambition_ with these _threads_ on the Fediverse, so far not to be the target of hate and hostility.
 
-### Wants:
+### Wants
 
 * Wants to make money
 
-### Problems:
+### Problems
 
 * Accepting payments / credits via credit card (an possibly other means)
 
@@ -94,12 +94,12 @@ But the posts will tend tbe so void of any context or information that it cannot
 Sometimes on a one-of-one basis.
 Sometimes in a group (of friends) basis.
 
-### Wants:
+### Wants
 
 * wants obscurity and to be inconspicuous
 * wants social-interaction with their close friends
 
-### Problems:
+### Problems
 
 * Worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
 
@@ -160,8 +160,8 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 A **Topic Backer** is someone who likes consuming certain type of content, and is willing to financially support (at least some) creators who create content they like consuming. Their motivation for providing this financial support is they hope the creator will create more art/content that they like for them to consume.
 
-### Wants:
+### Wants
 
 * want new content on topics they are interested in
 
-### Problems:
+### Problems
