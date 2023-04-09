@@ -63,6 +63,12 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Fediverse Advocate](#fediverse-advocate)
   * [Open-Source Advocate](open-source-advocate)
   * [Privacy Advocate](#privacy-advocate)
+* Audience
+  * [Idolizer](#idolizer)
+  * Lurker
+    * [Anxious Anna](#anxious-anna)
+    * [Mob Fearing Fred](#mob-fearing-fred)
+  * [Mastonaut](#mastonaut)
 * [Computer Programmer](#computer-programmer)
 * Creator
   * [Columnist](#columnist)
@@ -75,11 +81,6 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Entrepreneurial CEO](#entrepreneurial-ceo)
 * [Entrepreneurial CTO](#entrepreneurial-cto)
 * [Flocker](#flocker)
-* [Idolizer](#idolizer)
-* Lurker
-  * [Anxious Anna](#anxious-anna)
-  * [Mob Fearing Fred](#mob-fearing-fred)
-* [Mastonaut](#mastonaut)
 * Reactionary
   * [Contra Musk](#contra-musk)
 * [Staff Recruiter](#staff-recruiter)
