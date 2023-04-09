@@ -86,7 +86,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 An **Accessibility Advocate** is someone on the Fediverse who advocates for and who may even by fanatical about others adding _caption-text_ to images in posts.
 
-They will often hound others on the Fediverse to edit posts to add _caption-text_ to images that do not have _caption-text_.
+They will often hound others on the Fediverse to edit posts to add _caption-text_ to images that do not have _caption-text_ (by replying to posts with images without _caption-text_).
 They will also often talk about screen-readers.
 
 ### Wants
