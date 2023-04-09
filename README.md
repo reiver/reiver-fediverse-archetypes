@@ -62,6 +62,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Diversified Creator](#diversified-creator)
 * [Early Adopter](#early-adopter)
 * [Fediverse Fanatic](#fediverse-fanatic)
+* [Flocker](#flocker)
 * [Influencer](#influencer)
 * [Life-Caster](#life-caster)
 * [Mob Fearing Fred](#mob-fearing-fred)
@@ -184,9 +185,21 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 
 ## Fediverse Fanatic
 
-## Wants
+### Wants
 
-## Problems
+### Problems
+
+---
+
+## Flocker
+
+A **Flocker** is someone who join the Fediverse as part of the **Twitter-migration** / **eternal-November** _not_ simply because they saw others joining, and Mastodon and the Fediverse were gaining "momentum".
+
+### Wants
+
+** want to be where everyone else is
+
+### Problems
 
 ---
 
