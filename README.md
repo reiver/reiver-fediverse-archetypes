@@ -209,6 +209,16 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 
 ## Entrepreneurial CEO
 
+An **Entrepreneurial CEO** is take risks to start new **companies**.
+
+**Entrepreneurial CEOs** should **not** be conflated with the type of **CEOs** that tend be a **CEO** at large established companies.
+I.e., **Entrepreneurial CEOs** tend to be **CEOs** that create the company they are **CEO** at — they are **not** the type of **CEO** that gets hired into the position.
+
+**Entrepreneurial CEOs** tend to be open-minded and curious.
+Due to this they are often one of the earlier adopters of technology.
+ALthough **Entrepreneurial CEOs** usually adopt or try out new technology after **CTOs**.
+And **CTOs** usually adopt or try out new technolgy either as part of or after **Computer Programmers**.
+
 ### Wants
 
 ### Problems
