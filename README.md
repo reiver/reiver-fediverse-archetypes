@@ -67,6 +67,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Flocker](#flocker)
 * [Influencer](#influencer)
 * [Life-Caster](#life-caster)
+* [Mastonaut](#mastonaut)
 * [Mob Fearing Fred](#mob-fearing-fred)
 * [Privacy Fanatic](#privacy-fanatic)
 * [Show-Off](#show-off)
@@ -235,6 +236,14 @@ A **Flocker** is someone who join the Fediverse as part of the **Twitter-migrati
 ---
 
 ## Life-Caster
+
+### Wants
+
+### Problems
+
+---
+
+## Mastonaut
 
 ### Wants
 
