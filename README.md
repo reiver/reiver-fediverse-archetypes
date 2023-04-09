@@ -285,9 +285,15 @@ A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migra
 
 ## Mastonaut
 
+A **Mastonaut** is anyone on the Fediverse.
+Despite "**Mastonaut**" being similar to the word "**Mastodon**", it is **not** a mastodon-specific label.
+For example, someone using Pixelfed would also be a **Mastonaut**.
+
 ### Wants
 
 ### Problems
+
+* the user-experience of the Fediverse is difficult and confusing
 
 ---
 
@@ -361,6 +367,8 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 ## Show-Off
 
 ### Wants
+
+* wants to be able to find
 
 ### Problems
 
