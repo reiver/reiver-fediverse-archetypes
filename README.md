@@ -126,7 +126,7 @@ This mass migration from Twitter to the Fediverse that started on November 2022 
 
 * loosing some aspects of their pre-Elon Musk Twitter experience when they joined Mastodon
 * resistance to making Mastodon or the Fediverse more like Twitter by people who have been part of the Fediverse before the Twitter-migration event
-* conflict with people who have been part of the Fediverse before the Twitter-migration event over social norms — for example: _content-warnings_, image captions, etc
+* conflicts with people who have been part of the Fediverse before the Twitter-migration event over social norms — for example: _content-warnings_, image captions, etc
 
 ---
 
