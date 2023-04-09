@@ -56,12 +56,12 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
-* [Backer Bob](#backer-bob)
 * [Decentralist](#decentralist)
 * [Influencer Iman](#influencer-iman)
 * [Life-Caster](#life-caster)
 * [Mob Fearing Fred](#mob-fearing-fred)
 * [Show-Off](#show-off)
+* [Topic Backer](#topic-backer)
 
 ---
 
@@ -102,14 +102,6 @@ Sometimes in a group (of friends) basis.
 ### Problems:
 
 * Worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
-
----
-
-## Backer Bob
-
-### Wants:
-
-### Problems:
 
 ---
 
@@ -161,3 +153,13 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 ### Wants
 
 ### Problems
+
+---
+
+## Topic Backer
+
+A **Topic Backer** is someone who likes consuming certain type of content, and is willing to financially support (at least some) creators who create content they like consuming. Their motivation for providing this financial support is they hope the creator will create more art/content that they like for them to consume.
+
+### Wants:
+
+### Problems:
