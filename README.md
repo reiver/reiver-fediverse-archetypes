@@ -57,7 +57,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Ambitious Admin](#ambitious-admin)
 * [Anxious Anna](#anxious-anna)
 * [Decentralist](#decentralist)
-* [Influencer Iman](#influencer-iman)
+* [Influencer](#influencer-iman)
 * [Life-Caster](#life-caster)
 * [Mob Fearing Fred](#mob-fearing-fred)
 * [Show-Off](#show-off)
@@ -120,7 +120,7 @@ Either as a means to and end, or and an end in and of itself.
 
 ---
 
-## Influencer Iman
+## Influencer
 
 ### Wants
 
