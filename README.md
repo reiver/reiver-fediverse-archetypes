@@ -293,7 +293,8 @@ For example, someone using Pixelfed would also be a **Mastonaut**.
 
 ### Problems
 
-* the user-experience of the Fediverse is difficult and confusing
+* following someone on another server is difficult and confusing
+* sharing their own Fediverse ID to others, so others can follow them, is difficult and confusing
 
 ---
 
