@@ -162,4 +162,6 @@ A **Topic Backer** is someone who likes consuming certain type of content, and i
 
 ### Wants:
 
+* want new content on topics they are interested in
+
 ### Problems:
