@@ -107,6 +107,8 @@ But their posts will tend to be void of any context or information so as to not 
 Sometimes on a one-of-one basis.
 Sometimes in a group (of friends) basis.
 
+**Anxious Annas** may consume other people's public content usually without commenting, favoriting, or (publicly) re-sharing.
+
 ### Wants
 
 * wants obscurity and to be inconspicuous
