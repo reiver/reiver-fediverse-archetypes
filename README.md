@@ -146,6 +146,8 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 ### Problems
 
+* fear of being bullied by a group of people
+
 ---
 
 ## Show-Off
