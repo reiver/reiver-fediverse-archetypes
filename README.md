@@ -94,6 +94,8 @@ They will also often talk about screen-readers.
 
 ### Problems
 
+* many (maybe most) people who create posts with images on the Fediverse don't include _caption-text_ for the images
+
 ---
 
 ## Ambitious Admin
