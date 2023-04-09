@@ -350,6 +350,7 @@ For example, someone using Pixelfed would also be a **Mastonaut**.
 A **Mob Fearing Fred** tends not to post content often because they fear being **mobbed** — i.e., being **bullied** by a group of people.
 
 Some **Mob Fearing Freds** may call being the target of this type of bullying — being "**canceled**".
+Some might also use the word "**cyberbullying**" to describe this.
 
 ### Wants
 
