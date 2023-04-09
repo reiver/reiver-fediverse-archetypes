@@ -61,7 +61,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Accessibility Advocate](#accessibility-advocate)
   * [Decentralization Advocate](#decentralization-advocate)
   * [Fediverse Advocate](#fediverse-advocate)
-  * [Open-Source Advocate](open-source-advocate)
+  * [Open-Source Advocate](#open-source-advocate)
   * [Privacy Advocate](#privacy-advocate)
 * Audience
   * [Idolizer](#idolizer)
