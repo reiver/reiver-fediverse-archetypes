@@ -307,7 +307,12 @@ Some **Mob Fearing Freds** may call being the target of this type of bullying â€
 
 ### Wants
 
+* wants to follow others who create content that they can covertly turn into an article to post in a newspaper
+
 ## Problems
+
+* under a lot of pressure to create articles for newspapers quickly, which doesn't give them any time to understand or investigate the topic they are writing about
+* articles they write usually have serious errors and factual inaccuracies
 
 ---
 
