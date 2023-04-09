@@ -59,7 +59,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Anxious Anna](#anxious-anna)
 * [Computer Programmer](#computer-programmer)
 * [Contra Musk](#contra-musk)
-* [Decentralist](#decentralist)
+* [Decentralization Advocate](#decentralization-advocate)
 * [Diversified Creator](#diversified-creator)
 * [Early Adopter](#early-adopter)
 * [Entrepreneurial CEO](#entrepreneurial-ceo)
@@ -167,9 +167,9 @@ This mass migration from Twitter to the Fediverse that started on November 2022 
 
 ---
 
-## Decentralist
+## Decentralization Advocate
 
-A **Decentralist** is someone cares about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
+A **Decentralization Advocate** (sometimes also called a "**Decentralist**") is someone cares about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
 Either as a means to and end, or and an end in and of itself.
 
 ### Wants
