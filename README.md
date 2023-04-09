@@ -116,6 +116,7 @@ Elon Musk was once acclaimed by many aligned with U.S. left-wing politics as a _
 This left-wing dislike of Elon Musk stems from Musk being critical the U.S. Democratic Party and some instances of U.S. left-wing politics, as well as expressing that he would vote for Republican Party candidates due to his dissatisfaction with incumbent U.S. Democratic Party members.
 
 Most of the **Contra Musks** joined the Fediverse on or after November 2022.
+This mass migration from Twitter to the Fediverse that started on November 2022 is known both as the **Twitter-migration** and the **eternal-November**.
 
 ### Wants
 
@@ -124,6 +125,8 @@ Most of the **Contra Musks** joined the Fediverse on or after November 2022.
 ### Problems
 
 * loosing some aspects of their pre-Elon Musk Twitter experience when they joined Mastodon
+* resistance to making Mastodon or the Fediverse more like Twitter by people who have been part of the Fediverse before the Twitter-migration event
+* conflict with people who have been part of the Fediverse before the Twitter-migration event over social norms — for example: _content-warnings_, image captions, etc
 
 ---
 
