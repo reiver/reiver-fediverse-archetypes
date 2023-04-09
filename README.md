@@ -71,6 +71,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Influencer](#influencer)
   * [Life-Caster](#life-caster)
   * [Sense Maker](#sense-maker)
+  * [Show-Off](#show-off)
 * [Early Adopter](#early-adopter)
 * [Entrepreneurial CEO](#entrepreneurial-ceo)
 * [Entrepreneurial CTO](#entrepreneurial-cto)
@@ -80,7 +81,6 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Anxious Anna](#anxious-anna)
   * [Mob Fearing Fred](#mob-fearing-fred)
 * [Mastonaut](#mastonaut)
-* [Show-Off](#show-off)
 * [Staff Recruiter](#staff-recruiter)
 * [Topic Backer](#topic-backer)
 
