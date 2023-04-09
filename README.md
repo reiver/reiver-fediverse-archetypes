@@ -111,6 +111,8 @@ Sometimes in a group (of friends) basis.
 
 A **Contra Musk** is reactionary who left Twitter and joined the the Fediverse (usually on a Mastodon community server) because of their dislike of Elon Musk. This dislike of Elon Musk stems from Musk being critical the U.S. Democratic Party and some instances of U.S. left-wing politics.
 
+Most of the **Contra Musks** joined the Fediverse on or after November 2022.
+
 ### Wants
 
 ### Problems
