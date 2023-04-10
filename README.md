@@ -432,3 +432,5 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 * wants new content on topics they are interested in
 
 ### Problems
+
+* some creators pay-wall content to only make them for supporters — but don't have enough funds to support every creator they follow
