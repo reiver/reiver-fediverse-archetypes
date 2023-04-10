@@ -83,7 +83,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Computer Programmer](#computer-programmer)
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
-* Late Adopter 
+* Later Adopter 
   * [Flocker](#flocker)
   * [Tech Columnist](#tech-columnist)
 * Reactionary
