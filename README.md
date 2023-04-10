@@ -161,7 +161,7 @@ Sometimes in a group (of friends) basis.
 A **Columnist** (also sometimes called a **jounalist** or a **reporter**) is someone who writes regularly for a newspaper or magazine.
 
 **Columnists** tend to be under a lot of pressure to create articles for newspapers or magazines quickly.
-**Columnists** tend to not have time to understand or more than superficially investigate the topics they are writing about.
+**Columnists** tend to not have time to understand or (more than superficially) investigate the topics they are writing about.
 
 **Columnists** often use social-media to find stuff to write about.
 **Columnists** often follow certain people on social-media, and put certain people on social-media on lists, so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
