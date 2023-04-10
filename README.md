@@ -80,7 +80,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Sense Maker](#sense-maker)
   * [Show-Off](#show-off)
 * Early Adopter
-  * [Computer Programmer](#computer-programmer)
+  * [Curious Computer Programmer](#curious-computer-programmer)
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
 * Subculturist
@@ -188,14 +188,6 @@ Some **Columnists** are [Influceners](#influencer), but most are not.
 
 ---
 
-## Computer Programmer
-
-### Wants
-
-### Problems
-
----
-
 ## Contra Musk
 
 A **Contra Musk** is reactionary who aligns with U.S. left-wing politics who left Twitter and joined the the Fediverse (usually on a Mastodon community server) because of their dislike of Elon Musk.
@@ -216,6 +208,14 @@ This mass migration from Twitter to the Fediverse that started on November 2022 
 * loosing some aspects of their pre-Elon Musk Twitter experience when they joined Mastodon
 * resistance to making Mastodon or the Fediverse more like Twitter by people who have been part of the Fediverse before the Twitter-migration event
 * conflicts with people who have been part of the Fediverse before the Twitter-migration event over social norms — for example: _content-warnings_, _image-captions_, etc
+
+---
+
+## Curious Computer Programmer
+
+### Wants
+
+### Problems
 
 ---
 
