@@ -84,7 +84,8 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
 * Subculturist
-  * [Fingerversalist](#fingerversalist)
+  * [Fingerer](#fingerer)
+  * [Gopherer](#gopherer)
   * [Tildeversalist](#tildeversalist)
   * [Twtxter](#twtxt)
   * [Uxner](#uxner)
@@ -294,7 +295,7 @@ And **CTOs** usually adopt or try out new technolgy either as part of or after *
 
 ---
 
-## Fingerversalist
+## Fingerer
 
 ### Wants
 
@@ -309,6 +310,14 @@ A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migra
 ### Wants
 
 * want to be where everyone else is
+
+### Problems
+
+---
+
+## Gopherer
+
+### Wants
 
 ### Problems
 
