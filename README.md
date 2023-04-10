@@ -72,7 +72,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Mastonaut](#mastonaut)
   * [Topic Backer](#topic-backer)
 * [Computer Programmer](#computer-programmer)
-* Creator
+* Content Creator
   * [Columnist](#columnist)
   * [Diversified Creator](#diversified-creator)
   * [Influencer](#influencer)
