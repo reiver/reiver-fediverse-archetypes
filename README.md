@@ -84,6 +84,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
 * Subculturist
+  * [Fingerversalist](#fingerversalist)
   * [Tildeversalist](#tildeversalist)
   * [Twtxter](#twtxt)
   * [Uxner](#uxner)
@@ -286,6 +287,14 @@ And **CTOs** usually adopt or try out new technolgy either as part of or after *
 ---
 
 ## Fediverse Advocate
+
+### Wants
+
+### Problems
+
+---
+
+## Fingerversalist
 
 ### Wants
 
