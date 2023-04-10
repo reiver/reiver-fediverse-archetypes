@@ -73,6 +73,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Topic Backer](#topic-backer)
 * Content Creator
   * [Columnist](#columnist)
+    * [Tech Columnist](#tech-columnist)
   * [Diversified Creator](#diversified-creator)
   * [Influencer](#influencer)
   * [Life-Caster](#life-caster)
@@ -82,7 +83,9 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Computer Programmer](#computer-programmer)
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
-* [Flocker](#flocker)
+* Late Adopter 
+  * [Flocker](#flocker)
+  * [Tech Columnist](#tech-columnist)
 * Reactionary
   * [Contra Musk](#contra-musk)
 * Worker 
@@ -411,6 +414,14 @@ Some might also use the word "**cyberbullying**" to describe this.
 ### Wants
 
 * 
+
+### Problems
+
+---
+
+## Tech Columnist
+
+### Wants
 
 ### Problems
 
