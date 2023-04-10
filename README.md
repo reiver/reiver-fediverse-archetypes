@@ -85,7 +85,8 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * [Flocker](#flocker)
 * Reactionary
   * [Contra Musk](#contra-musk)
-* [Staff Recruiter](#staff-recruiter)
+* Worker 
+  * [Staff Recruiter](#staff-recruiter)
 
 ---
 
