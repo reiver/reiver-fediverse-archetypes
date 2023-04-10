@@ -83,6 +83,8 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Computer Programmer](#computer-programmer)
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
+* Subculturist
+  * [Tildeversalist](#tildeversalist)
 * Later Adopter
   * [Contra Musk](#contra-musk)
   * [Flocker](#flocker)
@@ -419,6 +421,14 @@ Some might also use the word "**cyberbullying**" to describe this.
 ---
 
 ## Tech Columnist
+
+### Wants
+
+### Problems
+
+---
+
+## Tildeversalist
 
 ### Wants
 
