@@ -71,7 +71,6 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
     * [Mob Fearing Fred](#mob-fearing-fred)
   * [Mastonaut](#mastonaut)
   * [Topic Backer](#topic-backer)
-* [Computer Programmer](#computer-programmer)
 * Content Creator
   * [Columnist](#columnist)
   * [Diversified Creator](#diversified-creator)
@@ -79,9 +78,10 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Life-Caster](#life-caster)
   * [Sense Maker](#sense-maker)
   * [Show-Off](#show-off)
-* [Early Adopter](#early-adopter)
-* [Entrepreneurial CEO](#entrepreneurial-ceo)
-* [Entrepreneurial CTO](#entrepreneurial-cto)
+* Early Adopter
+  * [Computer Programmer](#computer-programmer)
+  * [Entrepreneurial CEO](#entrepreneurial-ceo)
+  * [Entrepreneurial CTO](#entrepreneurial-cto)
 * [Flocker](#flocker)
 * Reactionary
   * [Contra Musk](#contra-musk)
@@ -239,14 +239,6 @@ A **Diversified Creator** is a creator who has set up multiple income channels o
 
 * might loose their connection to their audience at the whim of a platform they built their audience on
 * source of income can be taken away from them at the whom of the platform they built their audience on
-
----
-
-## Early Adopter
-
-### Wants
-
-### Problems
 
 ---
 
