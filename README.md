@@ -93,6 +93,9 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Contra Musk](#contra-musk)
   * [Flocker](#flocker)
   * [Tech Columnist](#tech-columnist)
+* Reactionary
+  * [Contra Advertiser](#contra-advertiser) 
+  * [Contra Musk](#contra-musk)
 * Worker 
   * [Staff Recruiter](#staff-recruiter)
 
@@ -185,6 +188,14 @@ Some **Columnists** are [Influceners](#influencer), but most are not.
 
 * they are under a lot of pressure to create articles for newspapers or magazines quickly, which doesn't give them any time to understand or investigate the topic they are writing about
 * articles they write usually have serious errors and factual inaccuracies
+
+---
+
+## Contra Advertiser
+
+### Wants
+
+### Problems
 
 ---
 
@@ -311,7 +322,7 @@ With some people starting to use **finger** again.
 
 For the purposes of this document, we call someone who uses **finger**: a **fingerer**.
 
-Some of these **fingerers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), and others.
+Some of these **fingerers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), the [Contra Advertiser](cContra-advertiser), and others.
 
 Some have even hooked up **finger** to the Fediverse.
 
@@ -343,7 +354,7 @@ With some people using **gopher** again.
 
 For the purposes of this document, we call someone who uses **gopher**: a **gopherer**.
 
-Some of these **gopherers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), and others.
+Some of these **gopherers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), [Contra Advertiser](#contra-advertiser), and others.
 
 ### Wants
 
