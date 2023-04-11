@@ -311,7 +311,8 @@ With some people starting to use **finger** again.
 
 For the purposes of this document, we call someone who uses **finger**: a **fingerer**.
 
-Some of these **fingerers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse.
+Some of these **fingerers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), and others.
+
 Some have even hooked up **finger** to the Fediverse.
 
 ### Wants
