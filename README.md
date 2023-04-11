@@ -335,9 +335,33 @@ A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migra
 
 ## Gopherer
 
+**gopher** is an early Internet form of hyper-text, with its origins in the early 1990s.
+Like with a lot of things from the early Internet — **gopher** is **decentralized**.
+
+**gopher** has gone through a revival.
+With some people using **gopher** again.
+
+For the purposes of this document, we call someone who uses **gopher**: a **gopherer**.
+
+Some of these **gopherers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), and others.
+
 ### Wants
 
 ### Problems
+
+* being censored
+* being shown unwanted advertisements
+* being shown unwanted popups
+  * for allowing alerts 
+  * for cookie acceptance
+  * for newsletters
+* being spied on
+* being tracked
+* having your privacy taken away from you
+* having your identity taken away from you
+* having your income taken away from you
+* having your online social relationships taken away from you
+* having your online parasocial relationships taken away from you
 
 ---
 
