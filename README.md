@@ -89,6 +89,8 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Tildeversalist](#tildeversalist)
   * [Twtxter](#twtxt)
   * [Uxner](#uxner)
+  * [Vintage Computers Fan](#vintage-computers-fan)
+  * [Vintage Video Games Fan](#vintage-video-games-fan)
 * Later Adopter
   * [Contra Musk](#contra-musk)
   * [Flocker](#flocker)
@@ -551,6 +553,23 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 ### Problems
 
 ---
+
+## Vintage Computers Fan
+
+### Wants
+
+### Problems
+
+---
+
+## Vintage Video Games Fan
+
+### Wants
+
+### Problems
+
+---
+
 
 ## Uxner
 
