@@ -84,8 +84,8 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
 * Subculturist
-  * [Fingerer](#fingerer)
-  * [Gopherer](#gopherer)
+  * [Finger Fan](#finger-fan)
+  * [Gopher Fan](#gopher-fan)
   * [Tildeverse Fan](#tildeverse-fan)
   * [twtxt Fan](#twtxt-fan)
   * [uxn Fan](#uxn-fan)
@@ -314,7 +314,7 @@ And **CTOs** usually adopt or try out new technolgy either as part of or after *
 
 ---
 
-## Fingerer
+## Finger Fan
 
 **Finger** is an early Internet-based social networks, with its origins in the early 1970s.
 Like with a lot of things from the early Internet — **finger** is **decentralized**.
@@ -322,9 +322,7 @@ Like with a lot of things from the early Internet — **finger** is **decentrali
 **finger** is at the early stages of a revival.
 With some people starting to use **finger** again.
 
-For the purposes of this document, we call someone who uses **finger**: a **fingerer**.
-
-Some of these **fingerers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), the [Contra Advertiser](cContra-advertiser), and others.
+Some **finger fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), the [Contra Advertiser](cContra-advertiser), and others.
 
 Some have even hooked up **finger** to the Fediverse.
 
@@ -346,7 +344,7 @@ A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migra
 
 ---
 
-## Gopherer
+## Gopher Fan
 
 **gopher** is an early Internet form of hyper-text, with its origins in the early 1990s.
 Like with a lot of things from the early Internet — **gopher** is **decentralized**.
@@ -354,9 +352,7 @@ Like with a lot of things from the early Internet — **gopher** is **decentrali
 **gopher** has gone through a revival.
 With some people using **gopher** again.
 
-For the purposes of this document, we call someone who uses **gopher**: a **gopherer**.
-
-Some of these **gopherers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), [Contra Advertiser](#contra-advertiser), and others.
+Some **gopher fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), [Contra Advertiser](#contra-advertiser), and others.
 
 ### Wants
 
