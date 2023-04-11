@@ -303,6 +303,17 @@ And **CTOs** usually adopt or try out new technolgy either as part of or after *
 
 ## Fingerer
 
+**Finger** is an early Internet-based social networks, with its origins in the early 1970s.
+Like with a lot of things from the early Internet — **finger** is **decentralized**.
+
+**finger** is at the early stages of a revival.
+With some people starting to use **finger** again.
+
+For the purposes of this document, we call someone who uses **finger**: a **fingerer**.
+
+Some of these **fingerers** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse.
+Some have even hooked up **finger** to the Fediverse.
+
 ### Wants
 
 ### Problems
