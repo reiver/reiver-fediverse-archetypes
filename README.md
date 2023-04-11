@@ -86,9 +86,9 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * Subculturist
   * [Fingerer](#fingerer)
   * [Gopherer](#gopherer)
-  * [Tildeversalist](#tildeversalist)
-  * [Twtxter](#twtxt)
-  * [Uxner](#uxner)
+  * [Tildeverse Fan](#tildeverse-fan)
+  * [twtxt Fan](#twtxt-fan)
+  * [uxn Fan](#uxn-fan)
   * [Vintage Computers Fan](#vintage-computers-fan)
   * [Vintage Video Games Fan](#vintage-video-games-fan)
 * Later Adopter
@@ -524,7 +524,7 @@ Some **Tech Columnists** are [Influceners](#influencer), but most are not.
 
 ---
 
-## Tildeversalist
+## Tildeverse Fan
 
 ### Wants
 
@@ -546,7 +546,7 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 
 ---
 
-## Twtxter
+## twtxt Fan
 
 ### Wants
 
@@ -570,8 +570,7 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 
 ---
 
-
-## Uxner
+## uxn Fan
 
 ### Wants
 
