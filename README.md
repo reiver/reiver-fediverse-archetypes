@@ -442,9 +442,30 @@ Some might also use the word "**cyberbullying**" to describe this.
 
 ## Tech Columnist
 
+A **Tech Columnist** (also sometimes called a **Tech jounalist** or a **Tech reporter**) is someone who write regularly about Tech for a newspaper or magazine.
+
+There seems to be at least 3 reasons a **Tech Columnist** will join a new social-media platform early on:
+
+* the **Tech Columnist** intends to regularly write about the new social-media platform;
+* the **Tech Columnist** followed [Entrepreneurial CEOs](#entrepreneurial-ceo) onto the new social-media platform because they want to follow the [Entrepreneurial CEOs](#entrepreneurial-ceo)' posts to see if they post anything interesting that the **Tech Columnist** could covertly turn into an article to post to a newspaper or magazine;
+* the **Tech Columnist** (like most [Columnists](#columnist)) came onto the new social-media platform because there are certain people on the social-media network that they want to follow so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
+
+**Tech Columnists** (like most [Columnists](#columnist)) tend to be under a lot of pressure to create articles for newspapers or magazines quickly.
+**Tech Columnists** (like most [Columnists](#columnist)) tend to not have time to understand or (more than superficially) investigate the topics they are writing about.
+
+**Tech Columnists** (like most [Columnists](#columnist)) often use social-media to find stuff to write about.
+**Tech Columnists** (like most [Columnists](#columnist)) often follow certain people on social-media, and put certain people on social-media on lists, so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
+
+Some **Tech Columnists** are [Influceners](#influencer), but most are not.
+
 ### Wants
 
-### Problems
+* wants to follow others who create content that they can covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied)
+
+## Problems
+
+* they are under a lot of pressure to create articles for newspapers or magazines quickly, which doesn't give them any time to understand or investigate the topic they are writing about
+* articles they write usually have serious errors and factual inaccuracies
 
 ---
 
