@@ -213,7 +213,13 @@ This mass migration from Twitter to the Fediverse that started on November 2022 
 
 ## Curious Computer Programmer
 
+A **Curious Computer Programmer** is a computer programmer who is curious about new technology, and tends to become an **Early Adopter**.
+
+**Curious Computer Programmer** are usually one of the first **Early Adopters**.
+
 ### Wants
+
+* wants to try out new technology — including new social-media networks.
 
 ### Problems
 
