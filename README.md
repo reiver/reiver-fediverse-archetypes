@@ -85,6 +85,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Entrepreneurial CTO](#entrepreneurial-cto)
 * Subculturist
   * [Finger Fan](#finger-fan)
+  * [Gemini Fan](#gemini-fan)
   * [Gopher Fan](#gopher-fan)
   * [Tildeverse Fan](#tildeverse-fan)
   * [twtxt Fan](#twtxt-fan)
@@ -322,7 +323,7 @@ Like with a lot of things from the early Internet — **finger** is **decentrali
 **finger** is at the early stages of a revival.
 With some people starting to use **finger** again.
 
-Some **finger fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), the [Contra Advertiser](cContra-advertiser), and others.
+Some **finger fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), the [Contra Advertisers](cContra-advertiser), and others.
 
 Some have even hooked up **finger** to the Fediverse.
 
@@ -352,7 +353,9 @@ Like with a lot of things from the early Internet — **gopher** is **decentrali
 **gopher** has gone through a revival.
 With some people using **gopher** again.
 
-Some **gopher fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), [Contra Advertiser](#contra-advertiser), and others.
+The **gopher** revival seems to be a reaction to a feeling that the Internet, the Web, and the social-media is broken.
+
+Some **gopher fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), [Contra Advertisers](#contra-advertiser), and others.
 
 ### Wants
 
@@ -371,6 +374,14 @@ Some **gopher fans** are also on the Fediverse, due to being (somewhat) fellow-t
 * having your income taken away from you
 * having your online social relationships taken away from you
 * having your online parasocial relationships taken away from you
+
+---
+
+## Gemini Fan
+
+### Wants
+
+### Problems
 
 ---
 
