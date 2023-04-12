@@ -87,6 +87,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Finger Fan](#finger-fan)
   * [Gemini Fan](#gemini-fan)
   * [Gopher Fan](#gopher-fan)
+  * [NFT Fan](#nft-fan)
   * [Tildeverse Fan](#tildeverse-fan)
   * [twtxt Fan](#twtxt-fan)
   * [uxn Fan](#uxn-fan)
@@ -447,6 +448,14 @@ Some might also use the word "**cyberbullying**" to describe this.
 ### Problems
 
 * fear of being bullied by a group of people
+
+---
+
+## NFT Fan
+
+### Wants
+
+### Problems
 
 ---
 
