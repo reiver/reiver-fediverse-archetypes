@@ -84,6 +84,8 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Curious Computer Programmer](#curious-computer-programmer)
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
   * [Entrepreneurial CTO](#entrepreneurial-cto)
+* Innovator
+  * [Innovator Computer Programmer](#innovator-computer-programmer)
 * Subculturist
   * [Finger Fan](#finger-fan)
   * [Gemini Fan](#gemini-fan)
@@ -422,6 +424,14 @@ I.e., join to have a parasocial relationship with their **idol**.
 ---
 
 ## Influencer
+
+### Wants
+
+### Problems
+
+---
+
+## Innovator Computer Programmer
 
 ### Wants
 
