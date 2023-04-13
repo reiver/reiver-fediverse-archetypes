@@ -519,7 +519,11 @@ Many (maybe most) of these people are not **computer programmers** or **sysadmin
 
 ### Wants
 
+* many **Sense Makers** have a  **rage to master**
+
 ### Problems
+
+* some **Sense Makers** will get upset that other people (such as [Columists](#columist)) plagiarize their work, words, or ideas.
 
 ---
 
