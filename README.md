@@ -172,6 +172,10 @@ Sometimes in a group (of friends) basis.
 
 ### Problems
 
+* covert modifications
+* content disappearing
+* link-rot
+
 ---
 
 ## Columnist
