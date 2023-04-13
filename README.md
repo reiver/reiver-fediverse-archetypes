@@ -89,6 +89,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Gemini Fan](#gemini-fan)
   * [Gopher Fan](#gopher-fan)
   * [NFT Fan](#nft-fan)
+  * [Open-Source Fan](#open-source-fan)
   * [Tildeverse Fan](#tildeverse-fan)
   * [twtxt Fan](#twtxt-fan)
   * [uxn Fan](#uxn-fan)
@@ -481,6 +482,14 @@ Some might also use the word "**cyberbullying**" to describe this.
 ### Problems
 
 ---
+
+## Open-Source Fan
+
+### Wants
+
+### Problems
+
+--
 
 ## Opportunity Opportunist
 
