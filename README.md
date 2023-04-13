@@ -97,7 +97,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Contra Musk](#contra-musk)
   * [Flocker](#flocker)
   * [Tech Columnist](#tech-columnist)
-* [Opportunist](#opportunist)
+* [Opportunity Opportunist](#opportunity-opportunist)
 * Reactionary
   * [Contra Advertiser](#contra-advertiser) 
   * [Contra Musk](#contra-musk)
@@ -468,7 +468,11 @@ Some might also use the word "**cyberbullying**" to describe this.
 
 ---
 
-## Opportunist
+## Opportunity Opportunist
+
+ An **Opportunity Opportunist** is someone looking to take advantage of a situation with rapidly growing opportunities in a zero-sum sense (i.e., at other people's expense) without any principles and without any values.
+ 
+This can be economically, socially, culturally, sexually, etc.
 
 ### Wants
 
