@@ -79,6 +79,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Life-Caster](#life-caster)
   * [Sense Maker](#sense-maker)
   * [Show-Off](#show-off)
+  * [Toy Photographer](#toy-photographer)
 * Early Adopter
   * [Curious Computer Programmer](#curious-computer-programmer)
   * [Entrepreneurial CEO](#entrepreneurial-ceo)
@@ -572,6 +573,14 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 ### Problems
 
 * some creators pay-wall content to only make them for supporters — but don't have enough funds to support every creator they follow
+
+---
+
+## Toy Photographer
+
+### Wants
+
+### Problems
 
 ---
 
