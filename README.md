@@ -340,6 +340,11 @@ Some have even hooked up **finger** to the Fediverse.
 
 A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migration** / **eternal-November** simply because they saw others joining, and Mastodon and the Fediverse were gaining "momentum".
 
+**Flockers** are _not_ early adopters.
+
+**Flockers** tend to _not_ be open-minded or curious.
+**Flockers** are more likely to be comformists.
+
 ### Wants
 
 * want to be where everyone else is
