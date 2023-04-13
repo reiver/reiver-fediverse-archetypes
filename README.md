@@ -300,7 +300,7 @@ And **CTOs** usually adopt or try out new technolgy either as part of or after *
 **Entrepreneurial CEOs** want to consume content on the topics they are interested in.
 **Entrepreneurial CEOs** want to have discussions with other on the topics they are interested in — especially others who they believe are knowledgeable about the topics they are interested in.
 
-Some people may call **Entrepreneurial CEOs**, [Entrepreneurial CTOs](#entrepreneurial-cto), and possibly others — **Founders* or **Startup Founders**.
+Some people may call **Entrepreneurial CEOs**, [Entrepreneurial CTOs](#entrepreneurial-cto), and possibly others — **Founders** or **Startup Founders**.
 
 ### Wants
 
@@ -310,7 +310,7 @@ Some people may call **Entrepreneurial CEOs**, [Entrepreneurial CTOs](#entrepren
 
 ## Entrepreneurial CTO
 
-Some people may call **Entrepreneurial CTOs**, [Entrepreneurial CEOs](#entrepreneurial-ceo), and possibly others — **Founders* or **Startup Founders**.
+Some people may call **Entrepreneurial CTOs**, [Entrepreneurial CEOs](#entrepreneurial-ceo), and possibly others — **Founders** or **Startup Founders**.
 
 ### Wants
 
