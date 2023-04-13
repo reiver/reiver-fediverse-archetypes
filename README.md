@@ -97,6 +97,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Contra Musk](#contra-musk)
   * [Flocker](#flocker)
   * [Tech Columnist](#tech-columnist)
+* [Opportunist](#opportunist)
 * Reactionary
   * [Contra Advertiser](#contra-advertiser) 
   * [Contra Musk](#contra-musk)
@@ -460,6 +461,14 @@ Some might also use the word "**cyberbullying**" to describe this.
 ---
 
 ## Open-Source Advocate
+
+### Wants
+
+### Problems
+
+---
+
+## Opportunist
 
 ### Wants
 
