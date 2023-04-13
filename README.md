@@ -491,9 +491,14 @@ This can be economically, socially, culturally, sexually, etc.
 
 ## Self-Hoster
 
+A **Self-Hoster** is someone who wants to **host** their own Fediverse community instance server(s), rather than just using someone else's.
+
+Many (maybe most) of these people are not **computer programmers** or **sysadmins**.
+
 ### Wants
 
 ### Problems
+
 
 ---
 
