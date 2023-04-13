@@ -508,6 +508,10 @@ Many (maybe most) of these people are not **computer programmers** or **sysadmin
 
 ### Problems
 
+* doing backups
+* dealing with security holes
+* dealing with updates for new features
+* installing Fediverse software
 
 ---
 
