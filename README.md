@@ -268,6 +268,9 @@ Either as a means to and end, or and an end in and of itself.
 
 ## Diversified Creator
 
+A **Creator** is someone who creates some type of content for an audience to consume.
+This could be on YouTube, on Twitch, on Twitter, on LinkedIn, on Substack, on Medium, on a blog, through a newsletter, etc.
+
 A **Diversified Creator** is someone who is concerned about YouTube, Twitter, Patreon, and others deleting or suspending the accounts of creators on their platforms because it can cause of creator to loose their source of income and loose their connection to their audience.
 
 A **Diversified Creator** is a creator who has set up multiple income channels on different platforms.
