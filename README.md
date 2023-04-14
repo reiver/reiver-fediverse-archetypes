@@ -71,6 +71,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
     * [Mob Fearing Fred](#mob-fearing-fred)
   * [Mastonaut](#mastonaut)
   * [Topic Backer](#topic-backer)
+  * [Video Vegetable](#video-vegetable)
 * Content Creator
   * [Columnist](#columnist)
     * [Tech Columnist](#tech-columnist)
@@ -657,6 +658,14 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 ---
 
 ## uxn Fan
+
+### Wants
+
+### Problems
+
+---
+
+## Video Vegetable
 
 ### Wants
 
