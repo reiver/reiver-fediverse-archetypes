@@ -667,6 +667,15 @@ A **Topic Backer** is someone who likes consuming content on certain topics, and
 
 ## Video Vegetable
 
+A **Video Vegetable** is someone who wants to be enthralled by watching video that they can veg-out too, and _not_ have to "think".
+
+This could be one long video.
+Or more likely nowadays, a series of short videos played contiguously one after another without interruption.
+
+Commenting to video to too much "thinking" for a **Video Vegetable**.
+
 ### Wants
+
+* wants to veg-out watching video(s).
 
 ### Problems
