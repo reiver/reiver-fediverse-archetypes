@@ -106,6 +106,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 * Reactionary
   * [Contra Advertiser](#contra-advertiser) 
   * [Contra Musk](#contra-musk)
+  * [Contra Twitter](#contra-twitter)
 * Worker 
   * [Staff Recruiter](#staff-recruiter)
 
@@ -233,6 +234,14 @@ This mass migration from Twitter to the Fediverse that started on November 2022 
 * loosing some aspects of their pre-Elon Musk Twitter experience when they joined Mastodon
 * resistance to making Mastodon or the Fediverse more like Twitter by people who have been part of the Fediverse before the Twitter-migration event
 * conflicts with people who have been part of the Fediverse before the Twitter-migration event over social norms — for example: _content-warnings_, _image-captions_, etc
+
+---
+
+## Contra Twitter
+
+### Wants
+
+### Problems
 
 ---
 
