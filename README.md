@@ -72,6 +72,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Mastonaut](#mastonaut)
   * [Topic Backer](#topic-backer)
   * [Video Vegetable](#video-vegetable)
+* [Community Organizer](#community-organizer)
 * Content Creator
   * [Columnist](#columnist)
     * [Tech Columnist](#tech-columnist)
@@ -87,7 +88,6 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Entrepreneurial CTO](#entrepreneurial-cto)
 * Innovator
   * [Innovator Computer Programmer](#innovator-computer-programmer)
-* [Organizer](#organizer)
 * Subculturist
   * [Finger Fan](#finger-fan)
   * [Gemini Fan](#gemini-fan)
@@ -204,6 +204,14 @@ Some **Columnists** are [Influceners](#influencer), but most are not.
 
 * they are under a lot of pressure to create articles for newspapers or magazines quickly, which doesn't give them any time to understand or investigate the topic they are writing about
 * articles they write usually have serious errors and factual inaccuracies
+
+---
+
+## Community Organizer
+
+### Wants
+
+### Problems
 
 ---
 
@@ -520,14 +528,6 @@ Some might also use the word "**cyberbullying**" to describe this.
  An **Opportunity Opportunist** is someone looking to take advantage of a situation with rapidly growing opportunities in a zero-sum sense (i.e., at other people's expense) without any principles and without any values.
  
 This can be economically, socially, culturally, sexually, etc.
-
-### Wants
-
-### Problems
-
----
-
-## Organizer
 
 ### Wants
 
