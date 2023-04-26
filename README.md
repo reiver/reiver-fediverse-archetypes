@@ -87,6 +87,7 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
   * [Entrepreneurial CTO](#entrepreneurial-cto)
 * Innovator
   * [Innovator Computer Programmer](#innovator-computer-programmer)
+* [Organizer](#organizer)
 * Subculturist
   * [Finger Fan](#finger-fan)
   * [Gemini Fan](#gemini-fan)
@@ -519,6 +520,14 @@ Some might also use the word "**cyberbullying**" to describe this.
  An **Opportunity Opportunist** is someone looking to take advantage of a situation with rapidly growing opportunities in a zero-sum sense (i.e., at other people's expense) without any principles and without any values.
  
 This can be economically, socially, culturally, sexually, etc.
+
+### Wants
+
+### Problems
+
+---
+
+## Organizer
 
 ### Wants
 
