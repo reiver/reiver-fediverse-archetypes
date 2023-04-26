@@ -209,14 +209,19 @@ Some **Columnists** are [Influceners](#influencer), but most are not.
 
 ## Community Organizer
 
-Sometimes communities form "organically" — but that is very very rare.
-It seems like usually when a community exists a single person, through their ongoing actions, will create the **community** and cause it to continue to exist.
+Sometimes communities form "organically" — but this seems to be very very rare.
+It seems like when a community exists — usually a single person, through their initial and ongoing actions, will create the **community** and cause it to continue to exist.
 
 We call this person a **Community Organizer**.
 
 ### Wants
 
+* social status
+
 ### Problems
+
+* for in-person meet-ups, finding a place to meet
+* for in-person meet-ups, dealing with the place to meet
 
 ---
 
