@@ -43,10 +43,10 @@ Some examples of (non-Fediverse specific) **archetypes** include:
 * etc.
 
 You can also probably already see that an individual could express more than one **archetype**.
-For example — a single individual could be — a _father_, a _husband_, a _brother_, a _son_, a _CTO_, and a _programmer_ during a certain span of their life.
+For example — a single individual could be — a _father_, a _husband_, a _brother_, a _son_, a _CTO_, and a _programmer_ **at the same time** during a certain span of their life.
 
 The **archetypes** an individual expresses could also change over their life-time too.
-For example — before someone has a child, they wouldn't be a _father_ or a _mother_ yet; but after they have a child, they would become a _father_, or a _mother_.
+For example — before someone has a child, they wouldn't be a _father_ or a _mother_ yet; but after they have a child, they would (also) become a _father_, or a _mother_ (in addition to whatever other archetypes they express).
 
 This document includes **archetypes** relevant to the Fediverse that the author(s) have deemed "important" for a particular purpose.
 
