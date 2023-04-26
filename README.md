@@ -217,11 +217,14 @@ We call this person a **Community Organizer**.
 ### Wants
 
 * social status
+* some want others to share their passion with — which (that passion) may be the focus of the community
+* some may be using the comminity as a way for them learning more about something
 
 ### Problems
 
 * for in-person meet-ups, finding a place to meet
 * for in-person meet-ups, dealing with the place to meet
+* inviting others to attend the next meet-up, event, or whatever
 
 ---
 
