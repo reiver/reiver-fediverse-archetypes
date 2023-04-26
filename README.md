@@ -218,7 +218,8 @@ We call this person a **Community Organizer**.
 
 * social status
 * some want others to share their passion with — which (that passion) may be the focus of the community
-* some may be using the comminity as a way for them learning more about something
+* some may be using the comminity as a way for them learning more about something — which (that "something") may be the focus of the community
+* some may be using that community as a way of fishing for opportunities
 
 ### Problems
 
