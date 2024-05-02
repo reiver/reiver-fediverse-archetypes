@@ -56,5 +56,5 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 • Content Creator
 •• [[columnist]]
-••• [tech-columnist]]
+••• [[tech-columnist]]
 •• [[diversified-creator]]
