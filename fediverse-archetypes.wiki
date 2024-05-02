@@ -1,4 +1,6 @@
-# Fediverse Archetypes
+wiki/1
+
+§ Fediverse Archetypes
 
 by [Charles Iliya Krempeaux](http://reiver.link/)
 
@@ -14,7 +16,7 @@ It is **description** of what seems to be observed.
 
 ⚠️ **This document tries to use _"neutral"_ language in its descriptions.** ⚠️
 
-## Archetypes
+§§ Archetypes
 
 > archetypes (noun): an idealized model of a number of similar things.
 
@@ -50,12 +52,12 @@ For example — before someone has a child, they wouldn't be a _father_ or a _mo
 
 This document includes **archetypes** relevant to the Fediverse that the author(s) have deemed "important" for a particular purpose.
 
-## Table of Content
+§§ Table of Content
 
 Here are the list of **archetypes** we found that were relevant to the Fediverse.
 
 * Admin
-  * [Ambitious Admin](#ambitious-admin)
+  * [Ambitious Admin](§ambitious-admin)
   * [Self-Hoster](#self-hoster)
 * Advocate
   * [Accessibility Advocate](#accessibility-advocate)
@@ -113,41 +115,41 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 ---
 
-## Accessibility Advocate
+§§ Accessibility Advocate
 
 An **Accessibility Advocate** is someone on the Fediverse who advocates for and who may even by fanatical about others adding _caption-text_ to images in posts.
 
 They will often hound others on the Fediverse to edit posts to add _caption-text_ to images that do not have _caption-text_ (by replying to posts with images without _caption-text_).
 They will also often talk about screen-readers.
 
-### Wants
+§§§ Wants
 
 * wants all images posted on the Fediverse to have _caption-text_
 
-### Problems
+§§§ Problems
 
 * many (maybe most) people who create posts with images on the Fediverse don't include _caption-text_ for the images
 
 ---
 
-## Ambitious Admin
+§§ Ambitious Admin
 
 An **Ambitious Admin** is an administrator of one or more Fediverse community servers who is looking to turn their Fediverse community server(s) into a source of income for themselves, and maybe even a money making enterprise (beyond their personal needs).
 
 Although there are threads of the Fediverse that is (what in the U.S. would tend to get labeled) far-leftist and is anti-making-money, an **Ambitious Admin** is not.
 An **Ambitious Admin** may not feel comfortable sharing their _ambition_ with these _threads_ on the Fediverse, so as not to be the target of hate and hostility from them.
 
-### Wants
+§§§ Wants
 
 * wants to make money — to pay for the costs of the server, to pay their bills, to pay for a better life, or even to operate an enterprise
 
-### Problems
+§§§ Problems
 
 * accepting payments / credits via credit card (an possibly other means)
 
 ---
 
-## Anxious Anna
+§§ Anxious Anna
 
 An **Anxious Anna** is someone who doesn't like publicly posting content because they are afraid of other judging them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc.
 
@@ -161,22 +163,22 @@ Sometimes in a group (of friends) basis.
 
 **Anxious Annas** may consume other people's public content usually without commenting, favoriting, or (publicly) re-sharing.
 
-### Wants
+§§§ Wants
 
 * wants obscurity and to be inconspicuous
 * wants social-interaction with their close friends
 
-### Problems
+§§§ Problems
 
 * worried that others might judge them as being **not smart enough** (i.e., looking **dumb**), or **not creative enough**, etc
 
 ---
 
-## Archivist
+§§ Archivist
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 * covert modifications
 * content disappearing
@@ -184,7 +186,7 @@ Sometimes in a group (of friends) basis.
 
 ---
 
-## Columnist
+§§ Columnist
 
 A **Columnist** (also sometimes called a **jounalist** or a **reporter**) is someone who writes regularly for a newspaper or magazine.
 
@@ -194,34 +196,34 @@ A **Columnist** (also sometimes called a **jounalist** or a **reporter**) is som
 **Columnists** often use social-media to find stuff to write about.
 **Columnists** often follow certain people on social-media, and put certain people on social-media on lists, so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
 
-Some **Columnists** are [Influceners](#influencer), but most are not.
+Some **Columnists** are [Influceners](§influencer), but most are not.
 
-### Wants
+§§§ Wants
 
 * wants to follow others who create content that they can covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied)
 
-## Problems
+§§ Problems
 
 * they are under a lot of pressure to create articles for newspapers or magazines quickly, which doesn't give them any time to understand or investigate the topic they are writing about
 * articles they write usually have serious errors and factual inaccuracies
 
 ---
 
-## Community Organizer
+§§ Community Organizer
 
 Sometimes communities form "organically" — but this seems to be very very rare.
 It seems like when a community exists — usually a single person, through their initial and ongoing actions, will create the **community** and cause it to continue to exist.
 
 We call this person a **Community Organizer**.
 
-### Wants
+§§§ Wants
 
 * social status
 * some want others to share their passion with — which (that passion) may be the focus of the community
 * some may be using the comminity as a way for them learning more about something — which (that "something") may be the focus of the community
 * some may be using that community as a way of fishing for opportunities
 
-### Problems
+§§§ Problems
 
 * for in-person meet-ups, finding a place to meet
 * for in-person meet-ups, dealing with the place to meet
@@ -229,15 +231,15 @@ We call this person a **Community Organizer**.
 
 ---
 
-## Contra Advertiser
+§§ Contra Advertiser
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 ---
 
-## Contra Musk
+§§ Contra Musk
 
 A **Contra Musk** is reactionary who aligns with U.S. left-wing politics who left Twitter and joined the the Fediverse (usually on a Mastodon community server) because of their dislike of Elon Musk.
 
@@ -248,11 +250,11 @@ This left-wing dislike of Elon Musk stems from Musk being critical the U.S. Demo
 Most of the **Contra Musks** joined the Fediverse on or after November 2022.
 This mass migration from Twitter to the Fediverse that started on November 2022 is known both as the **Twitter-migration** and the **eternal-November**.
 
-### Wants
+§§§ Wants
 
 * wants not to be on a Elon Mush run Twitter
 
-### Problems
+§§§ Problems
 
 * loosing some aspects of their pre-Elon Musk Twitter experience when they joined Mastodon
 * resistance to making Mastodon or the Fediverse more like Twitter by people who have been part of the Fediverse before the Twitter-migration event
@@ -260,46 +262,46 @@ This mass migration from Twitter to the Fediverse that started on November 2022 
 
 ---
 
-## Contra Twitter
+§§ Contra Twitter
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 ---
 
-## Curious Computer Programmer
+§§ Curious Computer Programmer
 
 A **Curious Computer Programmer** is a computer programmer who is curious about new technology, and tends to become an **Early Adopter**.
 
 **Curious Computer Programmer** are usually one of the first **Early Adopters**.
 
-### Wants
+§§§ Wants
 
 * wants to try out new technology — including new social-media networks.
 
-### Problems
+§§§ Problems
 
 ---
 
-## Decentralization Advocate
+§§ Decentralization Advocate
 
 A **Decentralization Advocate** (sometimes also called a "**Decentralist**") is someone on the Fediverse who advocates for and who may even by fanatical about _"decentralization"_ of (at least) social-media networks (and possibly other things too).
 Either as a means to and end, or and an end in and of itself.
 
-### Wants
+§§§ Wants
 
 * wants decentralized social-media networks
 * some even want others _not_ to use centralized social-media networks
 
-### Problems
+§§§ Problems
 
 * decentralized versions of types of social-media networks don't exist yet
 * other people are using centralized social-media networks
 
 ---
 
-## Diversified Creator
+§§ Diversified Creator
 
 A **Creator** is someone who creates some type of content for an audience to consume.
 This could be on YouTube, on Twitch, on Twitter, on LinkedIn, on Substack, on Medium, on a blog, through a newsletter, etc.
@@ -308,16 +310,16 @@ A **Diversified Creator** is someone who is concerned about YouTube, Twitter, Pa
 
 A **Diversified Creator** is a creator who has set up multiple income channels on different platforms.
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 * might loose their connection to their audience at the whim of a platform they built their audience on
 * source of income can be taken away from them at the whom of the platform they built their audience on
 
 ---
 
-## Entrepreneurial CEO
+§§ Entrepreneurial CEO
 
 An **Entrepreneurial CEO** is someone willing to take risks and make sacrifices to start new **companies** that they lead and manage.
 
@@ -339,33 +341,33 @@ And **CTOs** usually adopt or try out new technolgy either as part of or after *
 **Entrepreneurial CEOs** want to consume content on the topics they are interested in.
 **Entrepreneurial CEOs** want to have discussions with other on the topics they are interested in — especially others who they believe are knowledgeable about the topics they are interested in.
 
-Some people may call **Entrepreneurial CEOs**, [Entrepreneurial CTOs](#entrepreneurial-cto), and possibly others — **Founders** or **Startup Founders**.
+Some people may call **Entrepreneurial CEOs**, [Entrepreneurial CTOs](§entrepreneurial-cto), and possibly others — **Founders** or **Startup Founders**.
 
-### Wants
+§§§ Wants
 
-### Problems
-
----
-
-## Entrepreneurial CTO
-
-Some people may call **Entrepreneurial CTOs**, [Entrepreneurial CEOs](#entrepreneurial-ceo), and possibly others — **Founders** or **Startup Founders**.
-
-### Wants
-
-### Problems
+§§§ Problems
 
 ---
 
-## Fediverse Advocate
+§§ Entrepreneurial CTO
 
-### Wants
+Some people may call **Entrepreneurial CTOs**, [Entrepreneurial CEOs](§entrepreneurial-ceo), and possibly others — **Founders** or **Startup Founders**.
 
-### Problems
+§§§ Wants
+
+§§§ Problems
 
 ---
 
-## Finger Fan
+§§ Fediverse Advocate
+
+§§§ Wants
+
+§§§ Problems
+
+---
+
+§§ Finger Fan
 
 **Finger** is an early Internet-based social networks, with its origins in the early 1970s.
 Like with a lot of things from the early Internet — **finger** is **decentralized**.
@@ -373,17 +375,17 @@ Like with a lot of things from the early Internet — **finger** is **decentrali
 **finger** is at the early stages of a revival.
 With some people starting to use **finger** again.
 
-Some **finger fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), the [Contra Advertisers](cContra-advertiser), and others.
+Some **finger fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](§privacy-advocate), the [Decentralization Advocates](§decentralization-advocate), the [Contra Advertisers](cContra-advertiser), and others.
 
 Some have even hooked up **finger** to the Fediverse.
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 ---
 
-## Flocker
+§§ Flocker
 
 A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migration** / **eternal-November** simply because they saw others joining, and Mastodon and the Fediverse were gaining "momentum".
 
@@ -392,15 +394,15 @@ A **Flocker** is someone who joined the Fediverse as part of the **Twitter-migra
 **Flockers** tend to _not_ be open-minded or curious.
 **Flockers** are more likely to be comformists.
 
-### Wants
+§§§ Wants
 
 * want to be where everyone else is
 
-### Problems
+§§§ Problems
 
 ---
 
-## Gopher Fan
+§§ Gopher Fan
 
 **gopher** is an early Internet form of hyper-text, with its origins in the early 1990s.
 Like with a lot of things from the early Internet — **gopher** is **decentralized**.
@@ -410,11 +412,11 @@ With some people using **gopher** again.
 
 The **gopher** revival seems to be a reaction to a feeling that the Internet, the Web, and the social-media is broken.
 
-Some **gopher fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](#privacy-advocate), the [Decentralization Advocates](#decentralization-advocate), [Contra Advertisers](#contra-advertiser), and others.
+Some **gopher fans** are also on the Fediverse, due to being (somewhat) fellow-travelers with some on the Fediverse — namely the [Privacy Advocates](§privacy-advocate), the [Decentralization Advocates](§decentralization-advocate), [Contra Advertisers](§contra-advertiser), and others.
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 * being censored
 * being shown unwanted advertisements
@@ -432,15 +434,15 @@ Some **gopher fans** are also on the Fediverse, due to being (somewhat) fellow-t
 
 ---
 
-## Gemini Fan
+§§ Gemini Fan
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 ---
 
-## Idolizer
+§§ Idolizer
 
 An **Idolizer** is someone who, sometimes obsessively, pays attention to, is fond of, adores, and even worships someone.
 
@@ -449,123 +451,123 @@ An **Idolizer** is someone who, sometimes obsessively, pays attention to, is fon
 Some **Idolizers** will join a social-media platform because one or more of their **idols** are on it.
 I.e., join to have a parasocial relationship with their **idol**.
 
-### Wants
+§§§ Wants
 
 * wants to consume content (supposedly) from their idol
 * wants to consume content about their idol
 * might want to talk about their idol with others
 
-### Problems
+§§§ Problems
 
 ---
 
-## Influencer
+§§ Influencer
 
-### Wants
+§§§ Wants
 
-### Problems
-
----
-
-## Innovator Computer Programmer
-
-### Wants
-
-### Problems
+§§§ Problems
 
 ---
 
-## Life-Caster
+§§ Innovator Computer Programmer
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 ---
 
-## Mastonaut
+§§ Life-Caster
+
+§§§ Wants
+
+§§§ Problems
+
+---
+
+§§ Mastonaut
 
 A **Mastonaut** is anyone on the Fediverse.
 Despite "**Mastonaut**" being similar to the word "**Mastodon**", it is **not** a mastodon-specific label.
 For example, someone using Pixelfed would also be a **Mastonaut**.
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 * following someone on another server is difficult and confusing
 * sharing their own Fediverse ID to others, so others can follow them, is difficult and confusing
 
 ---
 
-## Mob Fearing Fred
+§§ Mob Fearing Fred
 
 A **Mob Fearing Fred** tends not to post content often because they fear being **mobbed** — i.e., being **bullied** by a group of people.
 
 Some **Mob Fearing Freds** may call being the target of this type of bullying — being "**canceled**".
 Some might also use the word "**cyberbullying**" to describe this.
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 * fear of being bullied by a group of people
 
 ---
 
-## NFT Fan
+§§ NFT Fan
 
-### Wants
+§§§ Wants
 
-### Problems
-
----
-
-## Open-Source Advocate
-
-### Wants
-
-### Problems
+§§§ Problems
 
 ---
 
-## Open-Source Fan
+§§ Open-Source Advocate
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
+
+---
+
+§§ Open-Source Fan
+
+§§§ Wants
+
+§§§ Problems
 
 --
 
-## Opportunity Opportunist
+§§ Opportunity Opportunist
 
  An **Opportunity Opportunist** is someone looking to take advantage of a situation with rapidly growing opportunities in a zero-sum sense (i.e., at other people's expense) without any principles and without any values.
  
 This can be economically, socially, culturally, sexually, etc.
 
-### Wants
+§§§ Wants
 
-### Problems
-
----
-
-## Privacy Advocate
-
-### Wants
-
-### Problems
+§§§ Problems
 
 ---
 
-## Self-Hoster
+§§ Privacy Advocate
+
+§§§ Wants
+
+§§§ Problems
+
+---
+
+§§ Self-Hoster
 
 A **Self-Hoster** is someone who wants to **host** their own Fediverse community instance server(s), rather than just using someone else's.
 
 Many (maybe most) of these people are not **computer programmers** or **sysadmins**.
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 * doing backups
 * dealing with security holes
@@ -574,130 +576,130 @@ Many (maybe most) of these people are not **computer programmers** or **sysadmin
 
 ---
 
-## Sense Maker
+§§ Sense Maker
 
-### Wants
+§§§ Wants
 
 * many **Sense Makers** have a  **rage to master**
 
-### Problems
+§§§ Problems
 
-* some **Sense Makers** will get upset that other people (such as [Columists](#columist)) plagiarize their work, words, or ideas.
+* some **Sense Makers** will get upset that other people (such as [Columists](§columist)) plagiarize their work, words, or ideas.
 
 ---
 
-## Staff Recruiter
+§§ Staff Recruiter
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 * 
 
 ---
 
-## Show-Off
+§§ Show-Off
 
-### Wants
+§§§ Wants
 
 * 
 
-### Problems
+§§§ Problems
 
 ---
 
-## Tech Columnist
+§§ Tech Columnist
 
 A **Tech Columnist** (also sometimes called a **Tech jounalist** or a **Tech reporter**) is someone who write regularly about Tech for a newspaper or magazine.
 
 There seems to be at least 3 reasons a **Tech Columnist** will join a new social-media platform early on:
 
 * the **Tech Columnist** intends to regularly write about the new social-media platform;
-* the **Tech Columnist** followed [Entrepreneurial CEOs](#entrepreneurial-ceo) onto the new social-media platform because they want to follow the [Entrepreneurial CEOs](#entrepreneurial-ceo)' posts to see if they post anything interesting that the **Tech Columnist** could covertly turn into an article to post to a newspaper or magazine;
-* the **Tech Columnist** (like most [Columnists](#columnist)) came onto the new social-media platform because there are certain people on the social-media network that they want to follow so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
+* the **Tech Columnist** followed [Entrepreneurial CEOs](§entrepreneurial-ceo) onto the new social-media platform because they want to follow the [Entrepreneurial CEOs](§entrepreneurial-ceo)' posts to see if they post anything interesting that the **Tech Columnist** could covertly turn into an article to post to a newspaper or magazine;
+* the **Tech Columnist** (like most [Columnists](§columnist)) came onto the new social-media platform because there are certain people on the social-media network that they want to follow so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
 
-**Tech Columnists** (like most [Columnists](#columnist)) tend to be under a lot of pressure to create articles for newspapers or magazines quickly.
-**Tech Columnists** (like most [Columnists](#columnist)) tend to not have time to understand or (more than superficially) investigate the topics they are writing about.
+**Tech Columnists** (like most [Columnists](§columnist)) tend to be under a lot of pressure to create articles for newspapers or magazines quickly.
+**Tech Columnists** (like most [Columnists](§columnist)) tend to not have time to understand or (more than superficially) investigate the topics they are writing about.
 
-**Tech Columnists** (like most [Columnists](#columnist)) often use social-media to find stuff to write about.
-**Tech Columnists** (like most [Columnists](#columnist)) often follow certain people on social-media, and put certain people on social-media on lists, so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
+**Tech Columnists** (like most [Columnists](§columnist)) often use social-media to find stuff to write about.
+**Tech Columnists** (like most [Columnists](§columnist)) often follow certain people on social-media, and put certain people on social-media on lists, so that if one of those people posts something they think is interesting enough, they will covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied).
 
-Some **Tech Columnists** are [Influceners](#influencer), but most are not.
+Some **Tech Columnists** are [Influceners](§influencer), but most are not.
 
-### Wants
+§§§ Wants
 
 * wants to follow others who create content that they can covertly turn into an article to post to a newspaper or magazine (usually without giving credit to the person they copied)
 
-## Problems
+§§ Problems
 
 * they are under a lot of pressure to create articles for newspapers or magazines quickly, which doesn't give them any time to understand or investigate the topic they are writing about
 * articles they write usually have serious errors and factual inaccuracies
 
 ---
 
-## Tildeverse Fan
+§§ Tildeverse Fan
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 ---
 
-## Topic Backer
+§§ Topic Backer
 
 A **Topic Backer** is someone who likes consuming content on certain topics, and is willing to financially support (at least some) creators who create content they like consuming. Their motivation for providing this financial support is they hope the creator will create more content that they like for them to consume.
 
-### Wants
+§§§ Wants
 
 * wants new content on topics they are interested in
 
-### Problems
+§§§ Problems
 
 * some creators pay-wall content to only make them for supporters — but don't have enough funds to support every creator they follow
 
 ---
 
-## Toy Photographer
+§§ Toy Photographer
 
-### Wants
+§§§ Wants
 
-### Problems
-
----
-
-## twtxt Fan
-
-### Wants
-
-### Problems
+§§§ Problems
 
 ---
 
-## Vintage Computers Fan
+§§ twtxt Fan
 
-### Wants
+§§§ Wants
 
-### Problems
-
----
-
-## Vintage Video Games Fan
-
-### Wants
-
-### Problems
+§§§ Problems
 
 ---
 
-## uxn Fan
+§§ Vintage Computers Fan
 
-### Wants
+§§§ Wants
 
-### Problems
+§§§ Problems
 
 ---
 
-## Video Vegetable
+§§ Vintage Video Games Fan
+
+§§§ Wants
+
+§§§ Problems
+
+---
+
+§§ uxn Fan
+
+§§§ Wants
+
+§§§ Problems
+
+---
+
+§§ Video Vegetable
 
 A **Video Vegetable** is someone who wants to be enthralled by watching video that they can veg-out too, and _not_ have to "think".
 
@@ -706,8 +708,8 @@ Or more likely nowadays, a series of short videos played contiguously one after 
 
 Commenting to video to too much "thinking" for a **Video Vegetable**.
 
-### Wants
+§§§ Wants
 
 * wants to veg-out watching video(s).
 
-### Problems
+§§§ Problems
