@@ -1,6 +1,6 @@
 # Fediverse Archetypes
 
-by [Charles Iliya Krempeaux](http://changelog.ca/)
+by [Charles Iliya Krempeaux](http://reiver.link/)
 
 ---
 
