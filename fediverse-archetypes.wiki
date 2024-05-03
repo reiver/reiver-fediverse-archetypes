@@ -54,6 +54,8 @@ This document includes **archetypes** relevant to the Fediverse that the author(
 
 Here are the list of **archetypes** we found that were relevant to the Fediverse.
 
+• Advocate
+•• [[fediverse-accessibility-advocate]]
 • Content Creator
 •• [[columnist]]
 ••• [[tech-columnist]]

@@ -1,0 +1,18 @@
+wiki/1
+
+§ Fediverse Accessibility Advocate
+
+⸺ by Charles Iliya Krempeaux
+
+A **Fediverse Accessibility Advocate** is someone on the [[fediverse]] who //advocates for// and who may even by //fanatical about// others adding //caption-text// to images in posts.
+
+They will often hound others on the [[fediverse]] to edit posts to add //caption-text// to images that do not have //caption-text// (by replying to posts with images without //caption-text//).
+They will also often talk about screen-readers.
+
+§§ Wants
+
+• a **Fediverse Accessibility Advocate** wants all images posted on the Fediverse to have //caption-text//.
+
+§§ Problems
+
+• many (maybe most) people who create posts with images on the Fediverse don't include //caption-text// for the images.
