@@ -1,0 +1,34 @@
+wiki/1
+
+§ Contra Musk Ex-Twitterer
+
+⸺ by Charles Iliya Krempeaux
+
+⚠️ This document tries to use "neutral" language in its descriptions.
+
+A **Contra Musk Ex-Twitterer** is reactionary who dislikes of Elon Musk, who usually aligns with U.S. left-wing politics, and who left Twitter and joined another social-media platform because of their dislike of Elon Musk.
+
+Some of the **Contra Musk Ex-Twitterer** joined the Fediverse (usually on a Mastodon community server, or later on Facebook Threads).
+Some of the **Contra Musk Ex-Twitterer** joined Bluesky, as an alternative to Twitter.
+
+Most of the **Contra Musks Ex-Twitterer** joined the Fediverse on or after November 2022.
+This mass migration from Twitter to the Fediverse that started on November 2022 is known both as the **Twitter-migration** and the **eternal-November**.
+
+§§ Contra Musk
+
+Elon Musk was once acclaimed by many aligned with U.S. left-wing politics as a //champion// due to his investment and entrepreneurial activities with electric cars and solar energy technology, and thought of by some as a real-life version of (the fictional Marvel character) Tony Stark (who some may better know as //Iron Man//).
+This left-wing admiration of Elon Musk eventually transformed into a dislike.
+
+This left-wing dislike of Elon Musk seems to stem from Musk being critical the U.S. Democratic Party and some instances of U.S. left-wing politics, as well as expressing that he would vote for Republican Party candidates due to his dissatisfaction with incumbent U.S. Democratic Party members.
+
+And conformity seems to spread the reaction further.
+
+§§ Wants
+
+• A **Contra Musk Ex-Twitterer** wants to //not// be on a Elon Mush run Twitter
+
+§§ Problems
+
+• loosing some aspects of their pre-Elon Musk Twitter experience when they joined Mastodon, Bluesky, or Threads.
+• resistance to making Mastodon or the Fediverse more like Twitter by people who have been part of the Fediverse before the Twitter-migration event.
+• conflicts with people who have been part of the Fediverse before the Twitter-migration event over social norms — for example: //content-warnings//, //image-captions//, etc.

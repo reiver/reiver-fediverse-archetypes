@@ -60,3 +60,5 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 •• [[columnist]]
 ••• [[tech-columnist]]
 •• [[diversified-creator]]
+• Reactionary
+•• [[contra-musk-ex-twitterer]]
