@@ -4,6 +4,8 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
+A **Fediverse Accessibility Advocate** is a [[social-systems-archetype]].
+
 A **Fediverse Accessibility Advocate** is someone on the [[fediverse]] who //advocates for// and who may even by //fanatical about// others adding //caption-text// to images in posts.
 
 They will often hound others on the [[fediverse]] to edit posts to add //caption-text// to images that do not have //caption-text// (by replying to posts with images without //caption-text//).
