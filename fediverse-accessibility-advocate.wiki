@@ -16,3 +16,7 @@ They will also often talk about screen-readers.
 §§ Problems
 
 • many (maybe most) people who create posts with images on the Fediverse don't include //caption-text// for the images.
+
+§§ See Also
+
+• [[fediverse-archetypes]]
