@@ -4,7 +4,7 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-This document is a distillation of the **social-systems research** I did on the [[fediverse]].
+This document is a distillation of the [[social-systems-research]] I did on the [[fediverse]].
 
 This analysis is meant to be **descriptive**.
 I.e., it is trying to list out what is there.
@@ -18,7 +18,7 @@ It is **description** of what seems to be observed.
 
 🠶 archetypes (noun): an idealized model of a number of similar things.
 
-From the point-of-view of **social-systems research** — an **archetype** is a model of some aspect of a person shared among many people.
+From the point-of-view of [[social-systems-research]] — a [[social-systems-archetype]] is a model of some aspect of a person shared among many people.
 
 (UX people tend to call "**archetypes**": "**personas**".
 And marketers tend to call "**archetypes**": "**segments**".
