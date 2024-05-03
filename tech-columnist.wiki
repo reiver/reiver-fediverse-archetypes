@@ -6,6 +6,8 @@ wiki/1
 
 A **Tech Columnist** (also sometimes called a **tech jounalist** or a **tech reporter**) is someone who write regularly about tech for a newspaper, magazine, or blog.
 
+(A **tech columnist** is a [[social-systems-archetype]].)
+
 §§ When Tech Columnists Are Early Users On New Social-Media Platforms
 
 There seems to be at least 3 reasons a **tech columnist** will join a new social-media platform early on:
