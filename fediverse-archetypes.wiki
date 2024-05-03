@@ -56,6 +56,8 @@ Here are the list of **archetypes** we found that were relevant to the Fediverse
 
 • Advocate
 •• [[fediverse-accessibility-advocate]]
+• Audience
+•• [[lazy-watcher]]
 • Content Creator
 •• [[columnist]]
 ••• [[tech-columnist]]
