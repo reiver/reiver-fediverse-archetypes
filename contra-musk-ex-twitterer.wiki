@@ -8,14 +8,16 @@ wiki/1
 
 A **Contra Musk Ex-Twitterer** is reactionary who dislikes of Elon Musk, who usually aligns with U.S. left-wing politics, and who left Twitter and joined another social-media platform because of their dislike of Elon Musk.
 
-(It should be noted that — these //other social-media platform// often include people who are either indifferent to Musk, or are even fans of Musk.
-So although the **Contra Musk Ex-Twitterer** will find some like-minded people there — there will be many there who don't share their view.)
+It should be noted that — these //other social-media platform// often include people who are either indifferent to Musk, or are even fans of Musk.
+So although the **Contra Musk Ex-Twitterer** will find some like-minded people there — there will be many there who don't share their view.
 
-Some of the **Contra Musk Ex-Twitterer** joined the Fediverse (usually on a Mastodon community server, or later on Facebook Threads).
-Some of the **Contra Musk Ex-Twitterer** joined Bluesky, as an alternative to Twitter.
+§§ Exodus
 
-Most of the **Contra Musks Ex-Twitterer**s joined the Fediverse on or after November 2022.
-This mass migration from Twitter to the Fediverse that started on November 2022 is known both as the **Twitter-migration** and the **eternal-November**.
+Some of the **Contra Musk Ex-Twitterer**s joined //Bluesky//, as an alternative to Twitter.
+Some of the **Contra Musk Ex-Twitterer**s joined the //Fediverse// (usually on a //Mastodon// community server, or later on Facebook Threads).
+
+Most of the **Contra Musks Ex-Twitterer**s who joined the Fediverse joined on or after November 2022.
+This mass migration from Twitter to the Fediverse that started on November 2022 is known both as the **Twitter-migration** and the [[eternal-november]].
 
 §§ Contra Musk
 
